@@ -1,0 +1,1415 @@
+Russian Literature LXV (2009) IV
+
+www.elsevier.com/locate/ruslit
+
+“THE TRAGEDY OF A RUSSIAN WOMAN”:
+
+ANNA KARENINA IN THE MOSCOW ART THEATER, 1937
+
+ANNA MUZA
+
+
+
+
+
+Abstract
+
+
+Staged at a peak of Stalinist terror and aggressively promoted by the state, Anna Karenina in the Moscow Art Theater is an unusual cultural and ideological event of the late 1930s. In its disturbing lack of obvious political or emotional relevance to the socialist experience, the grand spectacle of adultery and suicide on the country’s main dramatic stage prompted a conflicted critical construction of the play’s Soviet meaning and resonance. Situating Anna Karenina in contemporary political and cultural landscapes, this essay exposes and interprets the rupture between the production’s mediated publicized image and immediate theatrical actuality, and brings to light the play’s inherent logic and implications created through a uniquely theatrical exchange among the Stalinist state, stage, and audience.
+
+Keywords: Anna Karenina; Tolstoi; Moscow Art Theater
+
+On April 16, 1937 Ignat Frolov, a collective farmer, who copied in his diary important news from the newspaper Izvestija, singled out a brief mention of the long lines at the Moscow Art Theater waiting for the tickets to the first performances of Anna Karenina.1 The report of a theater production would seem marginal in comparison with the events that defined Soviet public life in the winter and spring of 1937, from the Pjatakov-Radek trial in January to the February-March Meeting of the Central Committee calling for ever greater vigilance to the overwhelming celebration of the Puškin anniversary. How-0304-3479/$ – see front matter © 2009 Elsevier B.V. All rights reserved.
+
+doi:10.1016/j.ruslit.2009.07.004
+
+468
+
+Anna Muza
+
+ever, Frolov proved to be an expert reader of the Soviet press. On April 23
+
+TASS announced that two days earlier the opening performance of Anna Karenina had been attended by Stalin, Molotov, Vorošilov, Ždanov, and other Soviet leaders. The announcement must have been delayed because the newspapers printed and discussed Molotov’s lengthy article ‘Zadaþi po bor’-
+
+be s trockistskimi i inymi vrediteljami, diversantami i špionami’ (‘The tasks in fighting against the Trotskyist and other wreckers, saboteurs, and spies’).
+
+But on the 23rd, the TASS statement titled ‘Bol’šaja tvorþeskaja pobeda MCHAT SSSR im. Gor’kogo’,2 was published on the front page of Pravda and all other central Soviet newspapers next to the photograph of the same group of visitors surveying the prisoner-built Volga-Moscow Canal. Thus rhetorically and visually, Anna Karenina was associated with major victories in socialist construction and situated at the very core of Soviet political life.
+
+
+
+In the weeks and months that followed, both the play and the theater enjoyed exceptional publicity which accompanied their joint rise to a canon-ical status. On April 27 MCHAT was awarded the order of Lenin (a month earlier than the Bolshoi Theater), and in early May, a large number of its actors received state decorations and distinctions of various degrees.
+
+Accessible to a very limited number of theater-goers, the play was broadcast on the radio already on May 103 and partly filmed by Sojuzkinochronika for its newsreel.4 Interviews with the director, Vladimir Nemiroviþ-Danþenko, and leading actors, Alla Tarasova-Anna and Nikolaj Chmelev-Karenin, were published in the central press, which also reported on the artists’ meetings with workers. Productions emulating the Moscow model appeared on provincial stages: on May 17 Sovetskoe iskusstvo published an editorial survey ‘Kak igrat’ Annu Kareninu’ (‘How to play Anna Karenina’). In August, the Art Theater was distinguished with a trip to the International Exhibition in Paris.5 Dispatches covering the company’s performances in France appeared in Pravda and Izvestija with the regularity of front-line communica-tions. The production sealed the status of the Moscow Art Theater as the country’s “best and most talented” stage.6
+
+
+
+In most general terms, of course, the promotion of Anna Karenina reflected and served the well-known shift in ideological and cultural policies in the second half of the 1930s, which included a return to “conservative”
+
+values, appropriation of classical heritage, and legitimization of Russian nationalism. In the year of the twentieth anniversary of the revolution and fifth anniversary of the abolition of RAPP, a Russian classic mounted by a traditionalist “old” company epitomized the changed attitudes of “socialism achieved and won”. “Anna Karenina nacional’nyj spektakl’ na scene russko-go nacional’nogo teatra,” stated the writer Vsevolod Ivanov.7
+
+
+
+It seems, however, that the new socialist agenda would have been better served by almost any other work of Russian literature. Positioning Anna Karenina as a model achievement of Soviet art presented unusual difficulties.
+
+‘Anna Karenina’ 1937 469
+
+Anna Karenina differed radically from the general pattern of the sovietization of classical heritage, which, as Evgenij Dobrenko has argued concerning screen adaptations of Russian classics, “boiled down to the reworking of a source text in order to consolidate and give visual impact to a treatment that the critics have already developed and consolidated”.8 The Art Theater’s reworking of its “source text” did not rely on any “consolidated” treatment of it and resulted in a self-sufficient and ambivalent dramatic entity. The adaptation of the novel by the theater critic and historian Nikolaj Volkov relied only on the Anna-Karenin-Vronskij triangle, excluding all other narrative lines.
+
+The play, comprised of twenty three episodes, began at a railway station, with Vronskij’s first declaration of love, progressed through the love-affair’s major moments, and ended at a railway station, with Anna’s suicide. “Poþe-mu to, þto sdelal Chudožestvennyj teatr, my vprave nazvat’ ne prosto udaþnoj postanovkoj, a postanovkoj gluboko sovremennoj, realistiþeskoj, nastojašþej sovetskoj?” (“What gives us the right to call the Art Theater’s work not merely a successful production but a deeply contemporary, realist, truly Soviet one?”) asked the critic Jakov Varšavskij in the newspaper Trud, and his question, like many others posed in the ensuing debate, was not merely a rhetorical one.9 The state’s reasons for staging, watching, and celebrating a spectacle of passion and adultery in high society remained elusive, and the play’s relevance to the socialist experience, less than transparent.
+
+
+
+An uncommonly heterogeneous discussion of Anna Karenina, which lasted through the spring and summer of 1937, complements the play itself in shaping one of the highly unorthodox and controversial episodes in Soviet cultural history, which has not yet received the attention it deserves. In order to adjust the ambivalent play to Soviet tenets and values, leading writers and critics devised an unusual amalgam – or optical grammar – of prescriptive and prohibiting recommendations: the public was advised both how the play ought and ought not to be seen. An explicit denial of unwanted and suspect subtexts in the Art Theater’s play brought to the surface, rather than obscured, the ambiguous and unsettling aspects of Anna Karenina. Adjusting the production’s meaning and purpose to the more obvious, as well as intuited, ideological needs, desires, and designs of the state, the critical establishment stretched Anna Karenina over an extraordinary range of current political and cultural preoccupations and turned it into a construct nearly devoid of any substance: a malleable signifier open to any number of interpretations. Yet at the same time, the critics responsible for construing Anna Karenina as a Soviet classic failed to bring to light some of the most salient, definitive features of the performance that so pleased Soviet leadership in the spring of 1937. Paradoxically, Anna Karenina became both a highly visible, prominent part of the Soviet public space and a veiled, secret ritual performed for the select few at one of the peaks of Stalinist terror.
+
+470
+
+Anna Muza
+
+
+
+In the present paper I wish to situate Anna Karenina in the contemporary political and cultural landscape, and to expose and examine the rupture between the production’s mediated publicized image and immediate stage reality. I hope to reconstruct Anna Karenina as a theatrical event shaped by the audience’s experience of the terror and to show that the spectacle favored and endorsed by the state served and enacted contemporary discourses and practices of judgment, violence, and annihilation through a uniquely theatrical exchange between the stage and the viewers.
+
+Why ‘Anna Karenina’?
+
+As in other Soviet ideological campaigns, the appropriate public reaction to Anna Karenina was cultivated in advance. A month before the premiere, when the press was overwhelmed by the sinister materials of the February-March Plenum, Izvestija did not find it inappropriate to publish a long essay on Anna Karenina by the prominent critic and literary functionary Iogann Al’tman. Al’tman’s musings allegedly came as a response to a secretary of a local committee of the Communist Party disturbed by the profound shock he had suffered from reading two novels, Anna Karenina and Madame Bovary.
+
+“Trjaslis’ ruki. Edva ne plakal (a stydno – gody ne te). Ne obedal i ne užinal”
+
+(“My hands were shaking. I almost wept [which is embarrassing at my age]. I was unable to eat either dinner or supper”).10 The model Soviet man was troubled by his empathy for the class-alien heroines (“Obšþestvenno oni […]
+
+gluboko nam þuždy”) but the critic sanctioned and rationalized the reaction of his sentimental correspondent. Al’tman explained that both novels were ultimately not about love: their authors contemplated the ways of making life better and helping human beings “sbrosit’ okovy obmana i lži” (“to cast away the shackles of deception and lies”). The trauma inflicted on the communist by Anna Karenina displaced but also reflected the emotional crises experienced by his contemporaries from the revelations concerning leading party figures on the same newspaper pages. In reverse parallel to the denounced
+
+“enemies of the people”, Anna was promoted from an “alien” character to a national ideal, yet in both cases the conversion may have left some readers unconvinced.
+
+
+
+Too many traits of the heroine’s physiognomy contradicted the latest socialist doctrines, most obviously, the current discourse of womanhood. In the days of Anna Karenina’s opening performances, on April 19, Pravda published a long article titled ‘Materinstvo i literatura’ which urged writers
+
+“propagandirovat’ tu mysl’, þto materinstvo – takaja že social’no poleznaja i važnaja funkcija ženšþiny, kak i uþastie ee v obšþestvenno-proizvodstvennoj rabote” (“to propagandize the thought that motherhood is a function no less socially useful and important than woman’s participation in society’s pro-
+
+‘Anna Karenina’ 1937 471
+
+ductive labor”).11 Central to the image of the Soviet woman in painting, film, literature became the motifs of ripeness and fertility, and while Tarasova’s
+
+“zrelaja, toržestvujušþaja ženstvennost’” (“mature, triumphant femininity”) embodied the contemporary ideal,12 Anna’s experiences concerning motherhood, marriage, or even love could hardly be seen as “socially useful”.
+
+Moreover, the ongoing campaign for the strengthening of the Soviet family, in the course of which the state outlawed abortion in 1936 and made divorce much less accessible,13 created an awkward context for the valorization of Tolstoj’s heroine. The critic Aleksandr Mackin wondered in the journal Teatr with remarkable frankness:
+
+Ⱥ ɧɟ ɦɨɠɟɬ ɥɢ ɩɨɤɚɡɚɬɶɫɹ ɫɨɜɪɟɦɟɧɧɨɣ ɬɟɚɬɪɚɥɶɧɨɣ ɚɭɞɢɬɨɪɢɢ, ɱɬɨ Ʉɚɪɟɧɢɧɚ ɛɪɨɫɢɥɚ ɦɭɠɚ, ɭɲɥɚ ɤ ȼɪɨɧɫɤɨɦɭ, ɩɨɬɨɦ ɩɨɜɡɞɨɪɢɥɚ
+
+ɫ ɧɢɦ ɢ ɤɢɧɭɥɚɫɶ ɩɨɞ ɤɨɥɟɫɚ ɩɨɟɡɞɚ ɬɨɥɶɤɨ ɩɨɬɨɦɭ, ɱɬɨ ɨɧɚ
+
+ɧɟɭɠɢɜɱɢɜɚ, ɤɚɩɪɢɡɧɚ, ɫɜɨɟɧɪɚɜɧɚ, ɧɟɬɟɪɩɢɦɚ ɤ ɱɭɠɢɦ ɩɨɪɨɤɚɦ, ɨɬɤɪɨɜɟɧɧɨ ɷɝɨɢɫɬɢɱɧɚ ɜ ɫɜɨɟɦ ɱɭɜɫɬɜɟ? 14
+
+(Might it not seem to the present-day theater audience that Karenina left her husband for Vronskij, then quarreled with Vronskij, and threw herself under the wheels of a train only because she was difficult, capricious, willful, intolerant of other people’s flaws, openly egotistical in her love?)
+
+In Izvestija, Nikolaj Izgoev expressed a concern that Anna might not find a response in a komsomolka’s heart.15 Pointing out Anna’s inferiority to the
+
+“novye, sovetskie ženšþiny, bolee glubokie, bolee nežnye i intellektual’nye, i beskoneþno bolee graždanski-mužestvennye” (“new, Soviet women, more profound, more tender and intellectual, and possessing an infinitely greater civic courage”),16 the insecure critics articulated their own desire to replace the problematic heroine with an uncontroversial Soviet counterpart. “Kak chotelos’ by uvidet’ vo MCHATe na urovne takogo že masterstva novyj, bol’šoj, glubokij po zamyslu spektakl’ na sovetskuju temu!” (“One can but wish to see in MCHAT a major, new, conceptually profound, and as master-fully executed production on a Soviet theme!”) exclaimed, in particular, Jakov Grinval’d.17
+
+Interpreting
+
+Anna Karenina required a greater than average political tact and incisiveness. To be on the safe side, the editors of Sovetskoe iskusstvo published three articles on Anna Karenina, while the central organ of Soviet writers, Literaturnaja gazeta, chose to remain silent about the staging of a national literary classic. In its issue of April 26, where a review of the premiere was to be expected, the literary weekly published a piece by Jakov Ơjdel’man on literary endeavors of reeducated criminals building the Volga-Moscow canal. The play, as it were, competed for priority with political trials, on the one hand, and a prototypical GULAG site, on the other.
+
+472
+
+Anna Muza
+
+Anna as Katerina
+
+The correct approach to Anna Karenina was outlined in the TASS statement: Ƚɥɹɞɹ ɧɚ Ʉɚɪɟɧɢɧɭ-Ɍɚɪɚɫɨɜɭ, ɡɪɢɬɟɥɢ ɫ ɩɪɟɞɟɥɶɧɨɣ ɹɫɧɨɫɬɶɸ
+
+ɜɢɞɟɥɢ ɢ ɩɟɪɟɠɢɜɚɥɢ ɬɪɚɝɟɞɢɸ ɪɭɫɫɤɨɣ ɠɟɧɳɢɧɵ, ɪɚɡɞɚɜɥɟɧɧɨɣ
+
+ɧɟɜɵɧɨɫɢɦɨɣ ɬɹɠɟɫɬɶɸ ɫɨɛɫɬɜɟɧɧɢɱɟɫɤɨɝɨ ɫɬɪɨɹ. ɂɝɪɚ ɏɦɟɥɟɜɚ
+
+ɩɨɞɧɢɦɚɥɚ ɧɟɧɚɜɢɫɬɶ ɤ Ʉɚɪɟɧɢɧɭ, ɤɨɬɨɪɵɣ ɜɵɜɟɞɟɧ ɜ ɝɟɧɢɚɥɶɧɨɦ
+
+ɬɜɨɪɟɧɢɢ Ɍɨɥɫɬɨɝɨ ɤɚɤ ɨɥɢɰɟɬɜɨɪɟɧɢɟ ɜɫɟɣ ɦɟɪɡɨɫɬɢ ɪɟɚɤɰɢɨɧɧɨɣ, ɛɸɪɨɤɪɚɬɢɱɟɫɤɨɣ Ɋɨɫɫɢɢ ɢ ɥɢɰɟɦɟɪɢɹ ɰɟɪɤɨɜɧɨɣ ɦɨɪɚɥɢ.18
+
+(Looking at Karenina-Tarasova, the viewers saw with the utmost clarity, and empathized with, the tragedy of a Russian woman crushed by the unbearable burden of the proprietary social order. Chmelev’s performance raised hatred for Karenin, who is depicted in Tolstoj’s great creation as an epitome of the utter vileness of reactionary bureaucratic Russia and the hypocrisy of church morality.) The peculiar emphasis on the “utmost clarity” in the official guidelines sig-naled that Anna Karenina warranted a certain correction of public vision.
+
+Key to interpreting the play’s main character was seeing through, or beyond, her ostensible features. The language of “nevynosimaja tjažest’ sobstvenni-
+
+þeskogo stroja” referred Anna to Katerina Kabanova, the heroine of Aleksandr Ostrovskij’s drama Groza, whose marital infidelity and suicide had been interpreted by Nikolaj Dobroljubov and his Soviet successors as acts of protest against the “dark kingdom”. References to Katerina appeared in every critical review of the play; Varšavskij in Trud proposed that Tarasova brought to the fore Anna’s affinity with the “tradicionnaja narodnaja ženskaja drama v ơkspluatatorskom obšþestve” (“the traditional narodnaja drama of women in a society based on exploitation”). Conveniently, Alla Tarasova, who had played Katerina in an earlier screen adaptation of Groza (1934), personified or embodied the continuity between the two heroines: looking at Anna, the audience was also looking at Katerina. Critics instructed the viewers to ignore the trappings of Anna’s class: “Kogda smotriš’ blestjašþuju, proniknovennuju igru Tarasovoj, zabyvaeš’, þto Anna – odna iz vysoko-postavlennych dam pridvornogo kruga”, suggested Veþernjaja Moskva (“Watching Tarasova’s brilliant, heartfelt acting, one forgets that Anna is one of the high-placed ladies in the court circle”; emphasis added). “Tragedija Kareninoj – ơto otnjud’ ne tragedija velikosvetskoj ženšþiny”, stated Izgoev (“Karenina’s tragedy is by no means a tragedy of a high society woman”).19
+
+In other words, seeing Anna Karenina on the Art Theater’s stage meant not seeing her at all.
+
+
+
+However, at least one viewer was impressed precisely by Tarasova’s ability to convey social distinction: it was relayed to the cast that after the
+
+‘Anna Karenina’ 1937 473
+
+premiere Stalin had said: “Ona možet igrat’ vysšij svet i derevenskuju babu, i vo vsem ona ubeditel’na i prekrasna” (“She can play both a high society [character] and a peasant, and be equally compelling and beautiful”).20
+
+Anna as the Eternal Feminine
+
+Despite the class-oriented rhetoric of the official statement, many critics knew that Anna Karenina was not to be reduced to a reenactment of Groza.
+
+In his early magisterial piece for Izvestija, Al’tman framed the tragedy of a Russian woman with cornerstone romances of the Western canon, from Romeo and Juliet and Manon Lescaut to Werther and Madame Bovary. In April, the play’s opening coincided with the fifth anniversary of the abolition of RAPP, which prompted warnings against a vulgar sociological treatment of Anna Karenina. In Pravda, Iosif Juzovskij praised the Art Theater for steering clear of “ta sociologiþeskaja panika, kotoraja uže kažetsja vychodit iz mody i kotoraja vyražaetsja v otkaze videt’ v proizvedenii klassiþeskoj literatury bol’šie obšþeþeloveþeskie idei” (“that sociological panic, which, it seems, is already falling out of fashion and which consists in a refusal to see major all-human ideas in a work of classical literature”).21 Izgoev indicated that Soviet theater should not reject the “‘þeloveþeskoe, sliškom þeloveþeskoe’, vo imja otobraženija istoriþeskogo fona” (“the ‘human, all-too-human’
+
+for the sake of representing the historical background”). Sovetskoe iskusstvo in particular emphasized the eternal rather than historical or individual aspects of Anna’s story. “Tragedija Anny ne v tom, koneþno, þto ‘svet’ ot nee otvernulsja. Ona i ne v tom, þto Anna revnuet Vronskogo. […] Tragedija Anny v tom, þto nemyslimo otdelit’ v žizni dva vida ljubvi, þto podlinnaja ljubov’ edina” (“Anna’s tragedy, of course, is not in her being rejected by
+
+‘society’. Nor is it in her jealousy for Vronskij. Anna’s tragedy is in the fact that it is unthinkable to separate two kinds of love in life, that true love is indivisible”).22 Viktor Šklovskij’s review in the same paper opened with an appeal to the goddess of love: “Utrom, v tot þas, kogda zvezda Venera pred-vešþaet zarju […], dumalo þeloveþestvo o ljubvi, stremjas’ vyrvat’ ee iz pro-zy žizni” (“In that morning hour when the star Venus heralds the dawn, the humankind was thinking about love, striving to claim it from the prose of life”).23 The humanists elevated Anna from an oppressed Russian woman to an all-human archetype. “Ne v smysle togo ‘veþno ženskogo’, kotoroe ne perestupaet za porog kuchni i spal’ni. Ee istinno-ženskoe – v garmonii þuvstv, v nedelimosti ljubvi, v sile vnutrennego vleþenija,” indicated Mackin in Teatr (“Not in the sense of the ‘eternal feminine’ that does not extend beyond the threshold of the kitchen and bedroom. Her truly feminine lies in the harmony of her feelings, in the indivisibility of her love, in the strength of her inner attachment”).24
+
+474
+
+Anna Muza
+
+
+
+During his visit to Moscow in 1926, Walter Benjamin, who went to see a play or film nearly every night, observed that communist art relied on the
+
+“bagatellization of love and sex life”: “It would be considered counter-revolutionary propaganda to represent tragic love entanglements on film or stage.”25 Ten years later, Anna Karenina seemed to legitimize “tragic love entanglements”, if not in the representation of the Soviet experience, then at least vicariously, through the classical tradition. “I my znaem ošibki ljubvi, i my znaem stradanija,” allowed Sovetskoe iskusstvo (“We, too, know mistakes of love, we, too, are familiar with suffering”).
+
+Anna as Ledi Makbet Mcenskogo uezda
+
+Yet admitting “mistakes of love” into their discourse, the critics were ap-prehensive lest an emphasis on love for love’s sake should interfere with the production’s ideological resonance. Juzovskij indicated in Pravda that reducing the tragedy to Anna’s mistakes in choosing first Karenin, then Vronskij would mean blaming individuals and missing “te bolee obšþie naþala, kotorye dolžny byt’ privleþeny k otvetu” (“the larger forces that need to be held responsible”). The play “about love” legitimized and welcomed by the state was forcefully distinguished from its false doubles not embraced by socialist humanism. Sovetskoe iskusstvo pointed out: Ƚɪɭɛɭɸ ɢɞɟɣɧɭɸ ɢ ɯɭɞɨɠɟɫɬɜɟɧɧɭɸ ɨɲɢɛɤɭ ɞɟɥɚɸɬ ɬɟ ɪɟɠɢɫɫɟɪɵ
+
+ɢ ɚɤɬɟɪɵ, ɤɨɬɨɪɵɟ ɩɨɤɚɡɵɜɚɸɬ ɜɦɟɫɬɨ ɛɨɥɶɲɨɝɨ ɩɪɟɤɪɚɫɧɨɝɨ
+
+ɱɭɜɫɬɜɚ Ⱥɧɧɵ ɜɫɟɝɨ ɥɢɲɶ ɫɥɟɩɭɸ ɫɬɪɚɫɬɶ. Ɉɧɢ ɩɨɜɬɨɪɹɸɬ ɨɲɢɛɤɢ
+
+ɒɨɫɬɚɤɨɜɢɱɚ, ɬɪɚɤɬɨɜɚɜɲɟɝɨ “Ʌɟɞɢ Ɇɚɤɛɟɬ Ɇɰɟɧɫɤɨɝɨ ɭɟɡɞɚ” ɤɚɤ
+
+ɬɪɚɝɟɞɢɸ ɫɬɪɚɫɬɢ ɢ ɩɵɬɚɜɲɟɝɨɫɹ ɩɪɢ ɷɬɨɦ ɩɪɟɞɫɬɚɜɢɬɶ Ʉɚɬɟɪɢɧɭ
+
+ɂɡɦɚɣɥɨɜɭ ɬɪɚɝɢɱɟɫɤɨɣ ɝɟɪɨɢɧɟɣ.
+
+(Those directors and actors who, instead of showing Anna’s beautiful great love, represent merely a blind passion, commit an egregious ideological and artistic error. They repeat the mistakes of Šostakoviþ, who has interpreted Lady Macbeth of Mcensk as a tragedy of passion and attempted to present Katerina Izmajlova as a tragic heroine.)26
+
+Attacked in the well-known Pravda editorial on January 28, 1936 and immediately taken off the repertoire, Dmitrij Šostakoviþ’s opera was scorned for promoting not only musical chaos but also brutal, licentious sexuality. In fact, the director of Anna Karenina had first-hand knowledge of the
+
+“mistakes of Šostakoviþ”: in 1934, Nemiroviþ-Danþenko had staged Lady Macbeth in his Musical Theater; the review in Literaturnaja gazeta praising his production was titled ‘Pobeda sovetskoj muzyki’.27 The opera played
+
+‘Anna Karenina’ 1937 475
+
+with considerable success until in late 1935 the new, Bolshoi production outraged Stalin.
+
+Varšavskij
+
+in
+
+Trud still evoked Katerina Izmajlova among Anna’s na-rodnye counterparts, but to the majority of critics in the spring of 1937 Katerina’s name connoted not Leskov’s character but, per Pravda, Šostakoviþ’s
+
+“vospevanie kupeþeskoj pochotlivosti” (“glorification of merchant lewdness”). The ghost of Katerina Izmajlova with her “blind passion” haunted the press that undertook some sentimental, as well as political, education of the public. Komsomol’skaja pravda explained that Anna’s appeal issued not from a “neuderžimaja slepaja strast’” (“irresistible blind passion”) but from the
+
+“pravdivost’” (“truthfulness”) of her attachment. Mackin argued that Anna was driven to her death neither by a “slepaja prichot’” (“blind whim”) nor by
+
+“raspušþennaja volja” (“unrestrained will”) but by the inner meaninglessness of the life around her.28 In a larger context, the reiterated trope of blindness referred not only to the destructive passions of fictional heroes but also, metonymically, to the political short-sightedness of undiscriminating viewers.
+
+
+
+However, even an extremely brief review of Anna Karenina that appeared on August 12 in Le Figaro summed up Tarasova’s Anna as “un personage nouveau pour nous, plein de véhémence et de chaleur”.29 Soviet reviewers also acknowledged Tarasova’s emotionally broad, unreserved manner which, even in a blurred Soviet perception, did not seem appropriate for a society woman. Baþelis in Komsomol’skaja pravda described Tarasova’s Anna as a Russian woman with a deep and beautiful soul, “þut’ gru-bovataja v svoem þuvstve” (“slightly rough in [the expression of] her love”), as well as sometimes “ơgoistiþeski vzdornaja” (“egocentrically quarrelsome”) and “poryvistaja” (“impetuous”).30 Izgoev used Tolstoj’s phrasing to observe that Tarasova’s heroine indeed provoked a “þuvstvo dosady, poþti zloby” in her lover (“a sense of irritation, almost spite”; Part V, XXXIII). Stanislavskij’s wife Marija Lilina commented in a private letter that even though Tarasova’s Anna did not belong in high society she was “po þuvstvu prijatna, prosta i gorjaþa” (“emotionally appealing, simple and passionate”).31 Apparently, Tarasova’s performance was marked by the very qualities that in the Soviet taxonomy fell under the rejected category of “slepaja strast’”.
+
+Vladislav
+
+Chodaseviþ, the émigré poet, who reviewed the Art Theater’s shows in Paris for Vozroždenie, found Tarasova’s stage behavior to be vulgar and provincial, and her brisk movements and screams, too much lacking in the comme il faut.32 For Chodaseviþ, Tarasova’s “prostota” utterly ruined her character; but the Soviet critics codified her “slightly rough”, occasionally hysterical emotionality as stemming from her narodnaja essence.
+
+476
+
+Anna Muza
+
+Anna as Dama s kamelijami
+
+The prohibition to consider Anna Karenina as a tragedy of blind passion was accompanied by a warning against mistaking the play for a “pošlaja adjul’ternaja drama s sentimentami” (“a banal drama of adultery [filled] with sentimentality”), as Izgoev put it in Izvestija. Somewhat paradoxically, Anna’s character had to be negotiated between the Scylla of self-destructive ob-session and Charybdis of submissive sentimentality. The French “adjul’ter”
+
+and “sentimenty” identified the foreign source, and nature, of the latter.
+
+Veþernjaja Moskva pointed out, among others:
+
+ɋɞɟɥɚɜ ɰɟɧɬɪɨɦ ɫɩɟɤɬɚɤɥɹ ɥɸɛɨɜɧɭɸ ɬɪɚɝɟɞɢɸ Ʉɚɪɟɧɢɧɨɣ,
+
+ɤɨɬɨɪɚɹ ɜ ɞɪɭɝɨɦ ɬɟɚɬɪɟ ɦɨɝɥɚ ɛɵ ɩɪɟɜɪɚɬɢɬɶɫɹ ɜ ɛɚɧɚɥɶɧɭɸ
+
+ɚɞɸɥɶɬɟɪɧɭɸ ɞɪɚɦɭ, ɆXȺɌ, ɨɞɧɚɤɨ, ɫɭɦɟɥ ɩɨɞɧɹɬɶɫɹ ɞɨ ɛɨɥɶɲɢɯ
+
+ɯɭɞɨɠɟɫɬɜɟɧɧɵɯ ɢ ɨɛɳɟɫɬɜɟɧɧɨ-ɩɨɥɢɬɢɱɟɫɤɢɯ ɨɛɨɛɳɟɧɢɣ.
+
+(Having focused the production on Karenina’s tragedy of love, which in some other theater could have been turned into a banal drama of adultery, the MCHAT, however, was able to rise to major artistic, social, and political generalizations; emphasis added.)
+
+“Drugoj teatr” and “banal’naja adjul’ternaja drama” undoubtedly referred to Vsevolod Mejerchol’d and his production Dama s kamelijami based on La Dame aux camélias by Alexandre Dumas- fils (1852). The once immensely popular melodrama had been all but forgotten in the Soviet period; Mejerchol’d’s revival of it in 1934 was castigated by the party critics, most vehe-mently by the playwright Vsevolod Višnevskij, for decadent eroticism, sentimentality, and compassion for its heroine Marguerite Gautier, a kept woman killed by self-sacrificial love and consumption. Unlike Šostakoviþ’s opera, Dama s kamelijami stayed in the repertoire and continued to attract admiring audiences till the closure of Mejerchol’d’s theater in January of 1938.
+
+
+
+In fact, it is not unlikely that the authorities had initially encouraged the staging of Tolstoj’s novel as an alternative to Dumas and Mejerchol’d: in March of 1935, Nemiroviþ indicated to Stanislavskij that what he called
+
+“verchuška našej obšþestvennosti” (“the upper layer of our societal leadership”) was very much interested in that admittedly challenging project.33 The subsequent drastic changes in the “verchuška našej obšþestvennosti”34 had no impact on the state’s engagement. Following the anti-formalist campaign of 1936, Mejerchol’d’s falling out of official favor became apparent to all on the cultural front; in the spring of 1937, the Art Theater’s “great victory” also signified Mejerchol’d’s defeat. In the September issue of Teatr, Nemiroviþ’s co-director Vasilij Sachnovskij characterized Mejerchol’d as a “v vysšej stepeni odarennyj þužestranec” (“a supremely gifted foreigner”).35
+
+‘Anna Karenina’ 1937 477
+
+
+
+Yet the triumph of the Russian tragedy over the French melodrama was qualified by the thematic and stylistic affinity of the two productions.36
+
+Exquisite setting, elegant society figures, and a charming and unhappy heroine dying not for the revolution but for love seemed to offer the audiences in both theaters an escape from “social and political generalizations” into a romantic fantasy. The least eccentric and the most “old-fashion-ed” of all Mejerchol’d’s works for the stage, Dama s kamelijami contained elements of the Art Theater aesthetics,37 while Anna Karenina incorporated such distinctly Mejerchol’dian devices as stylized, “sculpted” mise-en-scènes.38 “Delo ne v raznostil’nosti spektaklja, ne v vozroždenii i v obno-vlenii v nem otzvukov Mejerchol’da. Možet byt’, imenno ơto chorošo,”
+
+remarked Šklovskij cryptically (“It does not matter that the production is stylistically heterogeneous or that one finds in it revived and renewed echoes of Mejerchol’d. Perhaps it is actually a good thing”). The majority of the reviewers did not find that “imenno ơto chorošo”. Mackin warned in Teatr:
+
+“Kritik gotov uže sdelat’ zakljuþenie: mol, Anna Karenina – obydennaja svetskaja drama, neþto vrode Damy s kamelijami ili ešþe pochuže” (“Some critic may be ready to jump to the conclusion [that] Anna Karenina is but a trivial society drama, something in the vein of Dama s kamelijami or even worse”).39 From the point of view of a French artist, Mejerchol’d had actually replaced “un drame romanesque” with “une satire échevelée de la bourgeoisie” (“a rampant satire of the bourgeoisie”),40 but Soviet viewers, too familiar with the social message, identified with the non-ideological, personal and intimate, in the heroine’s experience. Mackin observed with some displeasure that the scenes which invariably reduced the Art Theater audiences to tears were Anna’s near-death in childbirth and meeting with Sereža – the “poþti biologiþeskie projavlenija ee natury” (“nearly biological manifestations of her nature”) inferior to the more psychologically rich episodes.41
+
+
+
+The forceful and persistent denial of the “melodramatic” in Anna Karenina had not only political and ideological, but ethical implications as well. A late work, La Dame aux camélias still contained some of the constituent features of the original genre defined by Peter Brooks in his classic study of the melodramatic imagination – most significantly, a “public recognition of where virtue and evil reside”.42 The “repentant sinner of earlier melodrama”43 evolved, in Dumas, into a fatally ill courtesan, who sacrificed her last possibility of happiness and left her lover, giving in to his father’s plea to protect his family’s reputation in society. The French play (adapted for the silent screen at least ten times in the 1910s and 1920s) must have inspired the 1927 Hollywood version of Anna Karenina: in the film titled, characteristically, Love Anna-Greta Garbo was persuaded by Vronskij’s military commander – surrogate father – to spare the young officer’s good name and career, and withdraw from his life. Self-sacrifice
+
+478
+
+Anna Muza
+
+redeemed the sins of the fallen heroines. Love was filmed during Nemiroviþ-
+
+Danþenko’s two-year tenure with United Artists: astounded by such rendering of Tolstoj’s novel, Nemiroviþ, a “European consultant” at the studio, attempted to explain to Hollywood producers that playing Anna Karenina was inherently akin to playing Hamlet.44 While Hollywood sought to vindicate Anna for the mass audience by turning her into La Dame aux camélias, Nemiroviþ found, in a few years after his return to Moscow, that the time was ripe for doing just the opposite. In 1935, the director commissioned a new libretto for his staging of La Traviata, Verdi’s opera based on Dumas’s play: with the help of the poet Vera Inber the courtesan became an actress “zatravlennaja obšþestvom” (“hounded down by society”), who did not expire of consumption but killed herself by taking poiso 45
+
+n. The
+
+substitution of a natural, “biological” death by suicide canceled the redemptive mode of the melodramatic original.
+
+
+
+As someone who confronted the “sobstvenniþeskij stroj” Anna needed no vindication or forgiveness from the Soviet people; still, self-gratification and the apparent lack of altruism in her behavior ma
+
+grounds of
+
+de the ethical
+
+her character somewhat shaky. Tverskoj in Sovetskoe iskusstvo promptly shifted the production’s center of moral gravity onto its audience: Ɍɟɚɬɪ ɯɨɬɟɥ ɜɨɩɥɨɬɢɬɶ ɡɚɦɟɱɚɬɟɥɶɧɵɟ ɨɛɪɚɡɵ Ɍɨɥɫɬɨɝɨ, ɱɬɨɛɵ ɨɧɢ
+
+ɠɢɥɢ ɢ ɫɟɝɨɞɧɹ, ɤɚɤ ɧɚɲɢ ɫɨɜɪɟɦɟɧɧɢɤɢ, ɱɬɨɛɵ ɨɧɢ ɜɨɥɧɨɜɚɥɢ ɧɚɫ
+
+[...], ɱɬɨɛɵ ɨɧɢ ɫɬɚɜɢɥɢ ɩɪɨɛɥɟɦɵ, ɤɨɬɨɪɵɟ ɧɟ ɦɨɝɥɢ ɛɵɬɶ ɪɟɲɟɧɵ
+
+ɢ
+
+ɧ Ɍɨɥɫɬɵɦ, ɧɢ ɟɝɨ ɝɟɪɨɹɦɢ – ɢ ɪɟɲɚɸɬɫɹ ɧɚɦɢ. ɗɬɨ – ɫɩɟɤɬɚɤɥɶ ɜ
+
+ɥɭɱɲɟɦ ɫɦɵɫɥɟ ɫɥɨɜɚ ɝɥɭɛɨɤɨ ɦɨɪɚɥɶɧɵɣ.
+
+(The theater aspired to bring to life Tolstoj’s wonderful characters, so that they would be with us today, like our contemporaries, and stimulate us […], so that they would raise the problems which could not have been solved by Tolstoj or
+
+heroes – and which now are being
+
+his
+
+solved by us. This production is profoundly moral in the best sense of the word; emphasis in the original)
+
+hat m
+
+W
+
+ade the play moral “in the best sense of the word” was only the articipation of the Soviet audience.
+
+p
+
+Anna as Tat’jana
+
+In his influential study of adultery in the novel Tony Tanner has characterized the unfaithful wife as “in social terms, a self-canceling figure, one from whom society would prefer to withhold all recognition so that it would be possible to say that socially and categorically the adulterous woman does not exist”.46 The critical processing of Anna Karenina can be seen as a cancella-
+
+‘Anna Karenina’ 1937 479
+
+tion or erasing of her original character substituted by a collage of identities, from literary heroes to “our contemporaries”. Anna’s class, intimate moti-vation, her historical time itself dissolved in a rhetorical composite. In order to forestall any questioning of Anna’s behavior at least two prominent critics recoded or rewrote Anna’s main action (“postupok”) as well. Al’tman augmented his list of desperate lovers and romantic suicides with Puškin’s Tat’jana, who “stradaja i plaþa, muþitsja vsju žizn’, ne smirjaetsja, chotja
+
+‘drugomu otdana i budet vek emu verna’” (“suffering and weeping, spends all her life in torment yet does not give in, although she is “another’s wife and will be faithful all her life”).47 Al’tman made Tat’jana an older sister to three others: “Vtoraja – brosaetsja pod poezd. Tret’ja – prinimaet jad. ýet-vertaja – brosaetsja v Volgu” (“The second [heroine] – throws herself under a train. The third – takes poison. The fourth – throws herself into the Volga”).
+
+Juzovskij followed suit in Pravda, citing Tat’jana, Katerina, and Juliet as examples of women who “otkazyvalis’ idti v kabalu sobstvenniþeskich za-konov” (“refused to let themselves be enslaved by proprietary laws”). Ta-t’jana lent Anna not only her moral but also political authority, as the recent festivities had affirmed Puškin’s unqualified status in the Soviet cultural ontology.
+
+
+
+With Tat’jana, Anna’s rhetorical displacement would seem to have d its extrem
+
+reache
+
+e, but Viktor Šklovskij went still further: he presented the tragedy of a Russian wom
+
+“
+
+an” as a tragedy of a real, non-fictional, Soviet
+
+an.
+
+m
+
+Anna as Majakovskij
+
+In an essay titled ‘Voskresenie Anny Kareninoj’ Šklovskij compared Anna to Vladimir Majakovskij as two lonely, misunderstood, unloved human beings who fought for a cosmic, liberating love.48 The anniversary of Majakovskij’s death on April 14 was widely commemorated in the press, but no mention was made of its immediate cause. Anna’s suicide transparently alluded to the poet’s, but at the same time Šklovskij’s military tropes also evoked a heroic death in a battle: “On otvoevyval [svoju ljubov’] kak uþastok, v kotorom ukrepilis’ vragi” (“He fought for his love as if it were a territory overtaken by the enemies”). Printed next to a lengthy piece denouncing the former leadership of RAPP, Šklovskij’s article referred to the latter as “chanži, ne imejušþie serdca” (“bigots who have no heart”). Switching back and forth from Tolstoj’s heroine to the recently canonized poet49 in his habitual mon-tage of utterances, Šklovskij presented Anna and Majakovskij as mutually validating figures merging into a single utopian image of a “cel’nyj, sil’nyj, krasivyj, rešajušþij svoju sud’bu þelovek budušþego” (“a solid, strong, beautiful person of the future making his own destiny”). The critic concluded with
+
+480
+
+Anna Muza
+
+a lengthy passage from Majakovskij’s poem Pro ơto, quoting the poet’s plea to be resurrected in the thirtieth century for the sake of a true uncontaminated love that will have become possible by then (“Voskresi chotja b za to…”).
+
+Thus the essay’s punning and almost risqué title proved to be futuristic and communist, not Tolstoyan and Christian.
+
+
+
+Mackin quipped in Teatr that from Šklovskij’s point of view, Anna could have been happy had Vronskij resembled Majakovskij, but in fact the presence of the Soviet poet affected the heroine’s female identity. Šklovskij accentuated, by means of deliberately awkward writing, the genderless, all-human aspect of the resurrected Anna Karenina: “Russkaja tragiþeskaja aktrisa pokazyvala na russkoj scene bor’bu þeloveka s prozoj žizni za poơ-
+
+ziju” (emphasis added; “The tragic Russian actress was showing on the Russian stage man’s struggle for poetry with the prose of life”). The grammar of m
+
+Anna from
+
+asculinity distanced
+
+fallen women and underscored the heroic
+
+nature of her behavior. Mackin actually understood and elaborated the point made by his colleague:
+
+[…] ɝɢɛɧɟɬ ɡɚɦɟɱɚɬɟɥɶɧɚɹ ɪɭɫɫɤɚɹ ɠɟɧɳɢɧɚ Ⱥɧɧɚ Ʉɚɪɟɧɢɧɚ.
+
+Ƚɢɛɧɟɬ ɧɟ ɤɚɤ ɝɪɟɲɧɢɰɚ, ɚ ɤɚɤ ɬɪɚɝɢɱɟɫɤɢɣ ɝɟɪɨɣ, ɩɪɢɲɟɞɲɢɣ
+
+ɪɚɧɶɲɟ ɫɜɨɟɝɨ ɜɪɟɦɟɧɢ, ɧɨ ɭɬɜɟɪɞɢɜɲɢɣ ɩɪɚɜɨ ɧɚ ɢɞɟɚɥɶɧɭɸ
+
+ɥɸɛɨɜɶ, ɧɚ ɰɟɥɶɧɨɟ ɱɭɜɫɬɜɨ, ɧɚ ɜɵɫɨɤɭɸ ɦɨɪɚɥɶ ɢɫɬɢɧɧɨ “ɱɟɥɨ-
+
+ɜɟɱɟɫɤɨɝɨ ɱɟɥɨɜɟɤɚ”.
+
+([…] thus perishes the remarkable Russian woman Anna Karenina.
+
+Perishes not as a sinner bu
+
+who came before hi
+
+t as a tragic hero
+
+s time
+
+ut asserted t
+
+b
+
+he right to perfect love, to undivided attachment, to high morality of a truly “human human being”.50
+
+As a þ
+
+vek
+
+elo
+
+and geroj, Anna could be identified with the tragic hero who, in is struggle for the ideal, suffered the slings and arrows of outrageous h rtune.
+
+fo
+
+Tolstoj as Shakespeare
+
+In the second half of the 1930s, the view of the present as a grandiose shift of historical time suitable only for a Shakespearean treatment was shared by the ideological authorities and the intelligentsia. In a long article on the Soviet understanding of the tragic published in the September 1937 issue of Teatr, Anatolij Glebov declared that “Šekspir, a ne kto-libo inoj, poprežnemu dol-
+
+žen byt’ dlja nas orientirom” (“Shakespeare and not anyone else should remain our reference point”).51 Boris Pasternak repeatedly spoke of the Shakespearean nature of the time and started translating the great tragedies in response to Vsevolod Mejerchol’d’s urge of staging a new Hamlet.52 Anna
+
+‘Anna Karenina’ 1937 481
+
+Achmatova’s aphoristic “Dvadcat’ þetvertuju dramu Šekspira / Vremja pišet besstrastnoj rukoj” in her poem entitled ‘Londoncam’ (‘To Londoners’, 1940) summarized a perception that, on her native soil, had been common among her contemporaries. Shakespeare’s plays proliferated on the Soviet stages of the 1930s; Solomon Michoơls’s and Sergej Radlov’s King Lear (1935), Aleksej Popov’s Romeo and Juliet (1935), Sergej Radlov’s Othello (1936), were among major cultural events of the decade.53 Nemiroviþ-Dan-
+
+þenko himself considered staging Romeo and Juliet, Hamlet, and Antony and Cleopatra.54 The Russian classic that he eventually staged with its aristocratic characters, strong passions, and terrible outcome, had the trappings of high tragedy. In the current context, the “tragedy” in “tragedija russkoj ženšþiny” alluded above all else to the Shakespearean prototype.
+
+Juzovskij in Pravda identified the conflict underlying Anna Karenina with the epochal conflict of Shakespeare’s tragedies:
+
+ɂ Ⱥɧɧɚ, ɢ Ʉɚɪɟɧɢɧ, ɢ ȼɪɨɧɫɤɢɣ – ɨɧɢ ɜɥɚɫɬɶ ɢɦɭɳɢɟ, ɝɨɫɩɨɞɚ
+
+ɩɨɥɨɠɟɧɢɹ, ɢ ɨɧɢ ɫɚɦɢ ɨɤɚɡɵɜɚɸɬɫɹ ɪɚɡɞɚɜɥɟɧɵ ɬɟɦɢ ɫɨɛɫɬ-
+
+ɜɟɧɧɢɱɟɫɤɢɦɢ ɭɫɬɨɹɦɢ ɠɢɡɧɢ, ɤɨɬɨɪɵɟ ɨɧɢ ɠɟ ɜɨɡɜɨɞɢɥɢ ɢ
+
+ɩɪɨɜɨɡɝɥɚɲɚɥɢ. [...] ɋɬɚɪɵɣ ɦɢɪ ɭɪɨɞɨɜɚɥ, ɤɚɥɟɱɢɥ, ɢ ɩɨɝɚɧɢɥ ɷɬɢ
+
+ɨɬɧɨɲɟɧɢɹ – ɞɪɭɠɛɭ, ɥɸɛɨɜɶ, ɦɚɬɟɪɢɧɫɬɜɨ – ɧɟɡɚɜɢɫɢɦɨ ɨɬ ɬɨɝɨ, ɤɚɤɢɦɢ ɛɵ ɞɨɫɬɨɢɧɫɬɜɚɦɢ ɧɢ ɨɛɥɚɞɚɥɢ ȼɪɨɧɫɤɢɟ ɢ ɤɚɤɢɦɢ ɛɵ
+
+ɩɨɪɨɤɚɦɢ ɧɢ ɫɬɪɚɞɚɥɢ Ʉɚɪɟɧɢɧɵ. ȼ ɷɬɨɣ ɦɵɫɥɢ, ɧɚɩɪɢɦɟɪ, ɜɟɫɶ
+
+ɟɤɫɩɢɪ
+
+ɒ
+
+, ɩɨɜɟɫɬɜɨɜɚɜɲɢɣ ɨ ɬɪɚɝɟɞɢɢ ɤɨɪɨɥɹ Ʌɢɪɚ, ɢ ɩɪɢɧɰɚ
+
+Ƚɚɦɥɟɬɚ, ɢ ɜɨɟɧɚɱɚɥɶɧɢɤɚ Ɉɬɟɥɥɨ.
+
+(Anna, Karenin, Vronskij – they all belong to the powers that be, they are the masters of the situation, and they are crushed by the very proprietary foundations of life that they had erected and propounded themselves. […] The old world deformed, mutilated, and smeared these
+
+[human] relationships – friendship, love, motherhood – regardless of all the merits of the Vronskijs or all the flaws of the Karenins. This or exam
+
+thought, f
+
+ple, sums up all of Shakespeare, who told [us] [sic]
+
+e tragedies of king Lear,
+
+th
+
+and of prince Hamlet, and of the commander
+
+Othello.)
+
+The Shakespearian code substituted the historical in Anna Karenina by the symbolic and enlarged the characters to superhuman dimensions. Mackin declared that Tolstoj “nemošþnost’ Anny vosprinimaet kak bessilie þeloveþestva” (“perceives Anna’s weakness as the powerlessness of mankind”).55
+
+Tolstoj’s skepticism
+
+e notwithstanding,
+
+about Shakespear
+
+Anna Karenina was
+
+identified as a “podlinnaja tragedija šekspirovskogo masštaba” (“a genuine tragedy on a Shakespearean scale”).56
+
+
+
+The Shakespearean tragic structure also justified the incompleteness of the staged novel. Baþelis astutely pointed out that in the absence of Levin and
+
+482
+
+Anna Muza
+
+Kitty Anna’s drama appeared “uže” (“narrower”) but “ešþe dušnee, ešþe bez-yschodnee, ešþe muþitel’nee” (“ever more choking, more irresolvable, more excruciating”): “sgustilis’ kraski i stalo groznee i strašnee v ơtoj svetskoj myšelovke” (“the colors grew darker, and it became more sinister and terrifying in society’s mousetrap”). “The “mousetrap” summed up the play’s loss of the novel’s breadth, and breath; it also referred Anna Karenina to Hamlet as the archetypal tragic space that excluded happy families.
+
+Anna Karenina as a Tragedy of Revenge
+
+The gloomy and sinister epithets used by the critic of Komsomol’skaja pravda were in fact accurate: Anna Karenina differed from all of its literary and dramatic sources and intertexts in providing absolutely no conceptual or emotional reassurance for its shaken viewers. Unlike a classical tragedy, it offered no restoration of the broken chain of being, no “reconciliation to a sacred order larger than man”;57 unlike a melodrama, it contained no moral recompense for human suffering; unlike Tolstoj’s novel, it showed no life-affirming alternatives to Anna’s catastrophe. The heroine’s death in the finale did not have a single ethical or emotional counterpoint in the play’s inner world. Aleksandra Jabloþkina, a veteran actress of the Maly Theater, described the play’s suffocating effect on the audience: “Prosmotrev p’esu, vzdychaeš’ polnoj grud’ju pri mysli, þto žizn’, kotoraja tol’ko þto prošla pozadi” (“Having watched the play, you take a deep
+
+pered toboj na scene uže
+
+breath at the thought that the life you have just observed on the stage is already in the past”).58
+
+
+
+Positioning the Soviet present and future as the coveted alternatives to, and the end goal of, all things past was, of course, an ideological common-place: even Romeo and Juliet was a play about the predecessors of the Komsomol.59 But in Anna Karenina’s case, a void in the play’s inner structure, a lack of any resolution, any handshake between, or a plague on, the feuding houses, made the tragedy’s Soviet framing more meaningful than a familiar rhetorical flourish. Moreover, the transcendental intent of the original with its
+
+“Mne otmšþenie…” warranted a rewriting and redirecting of the novel’s
+
+“moral compass”. The leading critics took it upon themselves to reduce Tolstoj’s epigraph to a historical post-script to the play: “Soveršilos’ voz-dajanie, mir Karenina pogib” (“Vengeance has occurred, Karenin’s world has perished”), said Šklovskij, who also described the play as a resurrection of Anna Karenina on the Art Theater’s stage. Juzovskij declared in Pravda:
+
+“Vozdajanie sveršilos’, no vovse ne tem putem, kakim propovedoval Tolstoj, i imenno ơta mysl’ o sveršivšemsja vozdajanii soprovoždaet zritelja na spektakle vo MCHAT” (“Vengeance has occurred, although not in the fashion that Tolstoj preached, and the thought of that vengeance is what accompanies
+
+‘Anna Karenina’ 1937 483
+
+the viewer during the Art Theater’s performance”). Thus Anna Karenina became an optimistic tragedy of revenge, with the plot and agency of revenge situated outside the play itself.
+
+
+
+However, beginning with the TASS statement, which postulated “nenavist’” for Karenin and his “licemerie”, the critical language connected the production with the least comforting aspects of the current Soviet experience.
+
+The rhetoric of hatred, duplicity and vengeance echoed the press coverage of political trials and public responses to the shocking disclosures. Artists in particular were featured as connecting life and art: on January 29 Sovetskoe iskusstvo printed a statement from Leonid Leonidov, a leading tragic actor of the Art Theater, which named Jago, Richard III, and Tartuffe as characters that pale in comparison with the “nagromoždenie užasov pritvorstva, preda-tel’stva, i þernoj izmeny, obnaruživšichsja na processe trockistskoj bandy”
+
+(“a pile of horrors of hypocrisy, betrayal, and black treason that came to light at the trial of the Trotskyist gang”).60 Juzovskij opened his review in Pravda by stating that already in Tolstoj Anna’s story reached such tension that
+
+“edinstvennyj otvet – ơto vzryv gneva, nenavisti, mesti staromu miru” (“the only answer is an outburst of wrath, hatred, vengeance to the old world”): a phrase that could be exported to, or imported from, any public forum condemning the enemies of the people.
+
+ality
+
+Socialist re
+
+and its discourses
+
+embraced rather than distanced the Art Theater play.
+
+
+
+In his statements printed in Komsomol’skaja pravda (on March 26) and then in Pravda (on April 22) Nemiroviþ-Danþenko described Anna as a
+
+“þestn[aja] natur[a], kotoraja, ošþutiv radost’ þistoj pravdy, uže ne možet pomirit’sja s licemeriem i lož’ju” (“an innately honest person, who, having experienced the joy of pure truth, can no longer abide by hypocrisy and lies”). The conflict between truth and hypocrisy resembled the Soviet confrontation with the “masked enemy”. In his speech at the February-March Plenum Stalin all but praised the wreckers tried in the Šachty and Prompartija affairs for having been “otkryto þuždymi nam ljud’mi” (“people openly alien to us”) – unlike the current enemies that “prikidyvajas’ druz’jami sovetskoj vlasti, obmanyvali našich ljudej” (“pretending to be friends of the Soviet power deceived our people”).61 In June, several celebrities of the Art Theater, including Alla Tarasova, were cited on the pages of Izvestija as joining the
+
+“volny narodnogo gneva” (“waves of the people’s wrath”) and supporting the death sentences for Tuchaþevskij, Jakir, and Uboreviþ.62 Framed by show trials, reviewed next to accounts of the “waves of wrath”, and directed against various enemies, from RAPP to the “formalists” to the “Trotskyists”, the “tragedy of a Russian woma
+
+f vengeance not
+
+n” was borne by the spirit o
+
+as an accomplished historical act but as an ongoing process.
+
+
+
+As a Stalinist tragedy of honesty Anna Karenina complemented Othello, Stalin’s well-known favorite staged in the second half of the 1930s by one hundred theaters across the country.63 Anna’s rebellion against the
+
+484
+
+Anna Muza
+
+corrupt world of untruth brought home the fate of “þudesnyj, þestnyj Otello”
+
+deceived by “vredonosnye gady, pod licemernoj liþinoj skryvajušþie svoe smertel’noe žalo zmei” (“harmful serpents that hide a snake’s lethal sting under a hypocritical mask”).64
+
+
+
+The political actuality of Anna Karenina was articulated most openly, as well as most originally, by the writer Vsevolod Ivanov. Responding to the as
+
+June events, Ivanov proposed that it w
+
+actually the tragic play that
+
+delivered the Soviet people of moral evil:
+
+ɋɬɪɚɧɚ ɧɚɲɚ, ɜɟɫɶ ɧɚɲ ɧɚɪɨɞ ɧɟɞɚɜɧɨ ɛɵɥɢ ɫɜɢɞɟɬɟɥɹɦɢ ɛɟɫ-
+
+ɩɪɢɦɟɪɧɨɝɨ ɜ ɢɫɬɨɪɢɢ ɱɟɥɨɜɟɱɟɫɬɜɚ ɩɪɟɞɚɬɟɥɶɫɬɜɚ ɢ ɞɜɭɪɭɲ-
+
+ɧɢɱɟɫɬɜɚ ɜɪɚɝɨɜ ɧɚɪɨɞɚ – Ɍɭɯɚɱɟɜɫɤɨɝɨ ɢ ɞɪɭɝɢɯ ɦɟɪɡɚɜɰɟɜ –
+
+ɬɨɪɝɨɜɚɜɲɢɯ ɫɜɨɟɣ ɫɬɪɚɧɨɣ. ɉɪɚɜɞɢɜɨɫɬɶ, ɢɫɤɪɟɧɧɨɫɬɶ, ɱɟɫɬɧɨɫɬɶ, ɜɧɭɬɪɟɧɧɹɹ ɞɭɲɟɜɧɚɹ ɤɪɚɫɨɬɚ – ɜɨɬ ɱɟɝɨ ɦɵ ɬɪɟɛɭɟɦ ɨɬ ɥɸɞɟɣ, ɜɨɬ
+
+ɱɟɝɨ ɬɪɟɛɭɟɬ ɡɪɢɬɟɥɶ ɜ ɬɟɚɬɪɟ. ɂ ɧɟɡɚɭɪɹɞɧɚɹ ɫɨɜɟɬɫɤɚɹ ɚɤɬɪɢɫɚ
+
+Ⱥɥɥɚ Ʉɨɧɫɬɚɧɬɢɧɨɜɧɚ Ɍɚɪɚɫɨɜɚ ɫɭɦɟɥɚ ɫɜɨɢɦ ɱɭɬɶɟɦ ɯɭɞɨɠɧɢɤɚ
+
+ɭɥɨɜɢɬɶ ɷɬɭ ɜɧɭɬɪɟɧɧɸɸ ɠɚɠɞɭ... […] Ʌɸɞɢ ɜ ɡɪɢɬɟɥɶɧɨɦ ɡɚɥɟ
+
+ɬɟɚɬɪɚ, ɡɚɬɚɢɜ ɞɵɯɚɧɢɟ, ɜɨɥɧɭɸɬɫɹ, ɩɟɪɟɠɢɜɚɸɬ, ɦɧɨɝɢɟ, ɧɟ
+
+ɫɬɵɞɹɫɶ, ɩɥɚɱɭɬ… ɋɰɟɧɚ ɧɟɫɟɬ ɡɪɢɬɟɥɶɧɨɦɭ ɡɚɥɭ ɨɬɜɟɬ ɧɚ ɟɝɨ
+
+ɜɨɩɪɨɫ, ɪɚɡɪɹɠɚɟɬ ɟɝɨ ɜɧɭɬɪɟɧɧɟɟ
+
+ɟɧɢɟ
+
+ɧɚɩɪɹɠ
+
+. ɗɬɨ ɩɨɞɥɢɧɧɵɣ
+
+ɤɚɬɚɪɫɢ
+
+“
+
+ɫ”, ɨ ɤɨɬɨɪɨɦ ɝɨɜɨɪɢɥɢ ɷɥɥɢɧɵ. 65
+
+(Our country, our people have recently witnessed the betrayal and duplicity of the enemies of the people – Tuchaþevskij and other scoundrels, who have sold their country – unprecedented in the history of mankind. Truthfulness, sincerity, honesty, inner beauty of the soul –
+
+this is what we demand of people, this is what the spectator demands in the theater. And the exceptional Soviet actress Alla Konstantinovna Tarasova with her intuition of an artist was able to grasp that inner thirst. […] People in the theater hold their breath, get anxious and emotional, many are not embarrassed to cry… The stage brings the ner tension. This
+
+audience the answer to its question, relieves its in
+
+is the
+
+genuine “catharsis” that the Hellenes spoke of.)
+
+
+
+The only writer who openly referred Anna Karenina to the political trials, Ivanov elaborated Tverskoj’s idea of the production as a Soviet morality play. Contrary to the prevalent usage of “play-acting” to denote the enemy’s duplicitous activities, Ivanov proposed that the art of the Art Theater, famously based on the authenticity of feeling, podlinnost’ pereži-vanija, represented truthfulness itself. The Soviet actress and her audience asserted their sincerity through an authentic emotional experience. Theater, the medium estranged and ridiculed by Tolstoj both in War and Peace and in Anna Karenina as an epitome of falsehood, became a vehicle for the ultimate truth. Anna Karenina
+
+e au
+
+tested th
+
+dience’s political loyalty signified by a
+
+“podlinnyj”, genuine catharsis.
+
+‘Anna Karenina’ 1937 485
+
+Tolstoj as Euripides
+
+An intense emotional reaction to Anna Karenina solicited from and recommended to the Soviet people had been part of the critical campaign from early on, beginning with the shaken communist reader of the novel. Overwhelmed audiences were mentioned in every review of the play, yet if Anna Karenina indeed had a cathartic effect on its viewers, then not for the reasons construed in critical publications. The textual commentary built around and imposed on the MCHAT play reconfigured and obscured some of the main qualities of the staging. Thus, in an early sketch of the future production dated August 1935 and printed in Teatr in 1936, Nemiroviþ did not associate Anna Karenina with the plot of moral awakening. The heroine he imagined was not overcome by the “joy of pure truth” but burnt by the fire of passion:
+
+[…] Ⱥɧɧɚ ɫ ȼɪɨɧɫɤɢɦ ɫɚɦɢ ɩɥɨɬɶ ɨɬ ɩɥɨɬɢ ɢ ɤɪɨɜɶ ɨɬ ɤɪɨɜɢ ɷɬɨɣ
+
+ɚɬɦɨɫɮɟɪɵ – ɩɨɠɚɪ ɫɬɪɚɫɬɢ. Ⱥɧɧɚ ɫ ȼɪɨɧɫɤɢɦ, ɨɯɜɚɱɟɧɧɵɟ
+
+ɛɭɲɭɸɳɢɦ ɩɥɚɦɟɧɟɦ, ɨɤɪɭɠɟɧɧɵɟ ɫɨ ɜɫɟɯ ɫɬɨɪɨɧ, ɞɨ ɛɟɡɵɫ-
+
+ɯɨɞɧɨɫɬɢ, ɡɨɥɨɬɨɦ ɲɢɬɵɦɢ ɦɭɧɞɢɪɚɦɢ, ɤɚɜɚɥɟɪɝɚɪɞɫɤɢɦ ɛɥɟɫɤɨɦ, ɬɹɠɟɥɵɦɢ ɪɢɡɚɦɢ ɫɜɹɳɟɧɧɨɫɥɭɠɢɬɟɥɟɣ, ɩɵɲɧɵɦɢ ɬɭɚɥɟɬɚɦɢ
+
+ɩɨɥɭɨɝɨɥɟɧɧɵɯ ɤɪɚɫɚɜɢɰ, ɮɚɪɢɫɟɣɫɤɢɦɢ ɫɥɨɜɚɦɢ, ɥɢɰɟɦɟɪɧɵɦɢ
+
+ɭɥɵɛɤɚɦɢ, ɠɪɟɱɟɫɤɨɣ ɧɚɯɦɭɪɟɧɧɨɫɬɶɸ, ɫ ɬɚɣɧɵɦ ɪɚɡɜɪɚɬɨɦ ɜɨ
+
+ɜɫɟɯ ɭɝɥɚɯ ɷɬɨɝɨ ɢɦɩɨɡɚɧɬɧɨɝɨ ɫɬɪɨɟɧɢɹ. Ƚɞɟ-ɬɨ ɧɚɜɟɪɯɭ ɡɚɤɚ-
+
+ɦɟɧɟɥɨɟ ɥɢɰɨ ɜɟɪɯɨɜɧɨɝɨ ɠɪɟɰɚ – ɉɨɧɬɢɮɟɤɫɚ Ɇɚɤɫɢɦɭɫɚ.66
+
+(Anna and Vronskij themselves are flesh of the flesh and blood of the blood of this atmosphere [with their] blaze of passion. Anna and Vronskij, consumed by the blazing flame, surrounded on all sides, hopelessly, by uniforms with golden embroidery, glamour of the royal guard, heavy robes of the clergy, magnificent gowns of half-naked beauties, Pharisaical words, hypocritical smiles, priestly glower, and secret lewdness [going on] in every corner of this spectacular structure.
+
+Somewhere above [there appears] the stony face of the high priest, Pontifex Maximus.)
+
+Metaphors of sultry desire, as well as the archaic and pointedly pagan images, referred a nineteenth century Russian realist novel to the poetics of Antony and Cleopatra or Aida, tragedies of passion and interests of the state.
+
+A dark fatalistic theme was also present in the dramatic script: Volkov mentioned Wagner’s opera Tristan und Isolde as an inspiration for dramatizing romantic “duets”,67 and Sergej Ơjzenštejn noticed “tema rokovogo sžimaju-
+
+šþegosja kol’ca” (“the theme of a fatal tightening ring”) as underlying Volkov’s adaptation.68
+
+Having
+
+conceived
+
+Anna Karenina as a tragedy of fate, Nemiroviþ
+
+apparently remained true to his initial idea. Excerpts from rehearsal journals
+
+486
+
+Anna Muza
+
+published in 1978 show that the director consistently steered Tarasova away from Tolstoj and towards the idiom of the Greek theater: “Ja choþu vas uvidet’ takoj, þtoby ja mog skazat’: ach, kak by mne chotelos’ odet’ ee v togu, þtoby ona igrala antiþnuju tragediju!” (March 20, 1937; “I want you to impress me in a way that would allow me to say: Oh, how much I wish to dress her in a toga and see her perform an ancient tragedy!”).69 The image of a passionate ancient heroine utterly dominated the performance: Tarasova had to enact a “strast’ […] Evripida, a ne Tolstogo” (“a passion of Euripides, not Tolstoj”). “Nado osvobodit’sja ot vsego sentimental’nogo, þtoby, sygrav Annu Kareninu, imet’ pravo skazat’ sebe: teper’ ja mogu vse sygrat’ – i Fedru, i Mariju Stjuart, i Medeju!” (“It is necessary to get rid of everything sentimental so that, having played Anna Karenina, you had the right to say to yourself: Now I can play anyone, be it Phaedra, Maria Stuart or Medea!”).70
+
+Nemiroviþ also told his colleagues that he did not want every “zaurjadnaja”, ordinary, woman to identify with Anna: “Vot s þego nado naþinat’: kak tol’ko vy pojavites’, u zritelej dolžno byt’ ošþušþenie, þto ơta ženšþina otmeþena sud’boj!” (“This is our point of departure: As soon as you enter the stage, the viewers must sense that this woman is marked by fate!”).71 The director placed particular emphasis on the motif of fatal inevitability and Anna’s near-madness in the play’s finale: “Soveršenno obezumevšaja. Nikakich slov ne igrat’!” (“Utterly insane. Do not attempt to express it verbally!”; March 29, 1937).
+
+
+
+Why did Nemiroviþ’s ambition and his work’s defining properties remain in the blind zone of the critical vision? Such well-informed and astute critics as Juzovskij, Mackin, and others, could hardly have missed the ancient Greek subtext in Anna Karenina with its solemn outline of the mise-en-scène, Tarasova’s exalted acting, and underlying theme of fate. In a monograph on Nemiroviþ-Danþenko published in 1941, Vitalij Vilenkin, Nemiroviþ’s close associate, acknowledged that Anna Karenina was conceived as an ancient tragedy of passion and quoted some of the director’s working vocabulary:
+
+“On meþtal sdelat’ Annu ženšþinoj otmeþennoj strašnoj sud’boj, neuderžimo nesušþejsja v propast’” (“His dream was to make Anna a woman marked by awful fate and falling precipitously into an abyss”).72 However, the details drowning in a thick and specialized edition published on the margins of the cultural mainstream73 were inadmissible in contemporary mass publications.
+
+Allusions to blind passions of Greek myths drastically altered the alleged moral premises of Anna’s tragedy. The “catharsis of the Hellenes” with its mixture of pity and terror was provoked not by the suffering of an innocent victim, which Aristotle dismissed as “morally repugnant”, but by the contemplation of a mistake “of great weight and consequence” committed by
+
+“one of those who stand in great repute and prosperity”.74 For the Greeks, Phaedra’s tragic aberration manifested, in the words of a modern scholar,
+
+“wildness, madness, female desire – dangers that society must define and
+
+‘Anna Karenina’ 1937 487
+
+control”.75 Phaedra’s quasi-incestuous savage passion for her stepson, which resulted in his death and her suicide, translated into Anna’s anti-social and self-destructive affair with a young man whom one of the reviewers aptly called “budušþij Karenin” (“a future Karenin”). The template of ancient tragedy shaped the myth of a Russian Phaedra as a story of transgression and punishment.
+
+
+
+A few critics recognized that the theme of Anna’s guilt and responsi-bility was present in the novel but argued that, in Šklovskij’s felicitous phrasing, the play revealed “ne namerenie Tolstogo, a vnutrennee ego vdoch-novenie” (“not Tolstoj’s intention but his inner inspiration”). Baþelis told the readers of Komsomol’skaja pravda that the Art Theater “otkazalsja ot vsech þert stichijnosti, demoniþnosti, ot ‘rokovogo’ v sud’be Kareninoj” (“had rejected everything anarchical, demonic, ‘fatal’ in Karenina’s destiny”). But Vladimir Talalaj, a stage designer in a provincial theater who was sent to Moscow to prepare for the home production of Anna Karenina, left a rare and revealing account of the heroine’s gradual inner corruption: Ɍɚɪɚɫɨɜɚ ɫɨɡɞɚɥɚ ɨɛɪɚɡ ɛɨɥɟɟ ɫɥɨɠɧɵɣ ɢ ɦɧɨɝɨɫɬɨɪɨɧɧɢɣ, ɱɟɦ
+
+ɜɨɡɧɢɤɚɜɲɢɣ ɢɡ ɞɟɫɹɬɤɨɜ ɪɟɰɟɧɡɢɣ ɧɚ ɟɟ ɢɝɪɭ. […] Ɉɧɚ ɡɚɫɬɚɜɢɥɚ
+
+ɩɪɢɧɹɬɶ Ⱥɧɧɭ ɧɟ ɬɨɥɶɤɨ ɤɚɤ “ɠɟɪɬɜɭ ɨɛɳɟɫɬɜɚ”, ɧɨ ɢ ɤɚɤ
+
+ɧɟɜɨɥɶɧɭɸ “ɜɢɧɨɜɧɢɰɭ” ɫɜɨɟɣ ɧɟɫɱɚɫɬɧɨɣ ɫɭɞɶɛɵ. Ɉɧɚ ɫɭɦɟɥɚ –
+
+ɬɚɤ ɩɨɧɹɥ ɥɢɱɧɨ ɹ – ɩɨɤɚɡɚɬɶ ɱɬɨ ɜɪɟɦɹ ɢ ɨɛɳɟɫɬɜɨ ɧɟ ɬɨɥɶɤɨ
+
+ɨɤɪɭɠɢɥɢ ɟɟ ɫɬɟɧɨɣ ɨɬɜɟɪɠɟɧɧɨɫɬɢ, ɧɨ ɢ ɫɚɦɨɟ ɟɟ ɢɡɥɨɦɚɥɢ, ɡɚɦɭɬɢɥɢ ɟɟ ɹɫɧɭɸ ɞɭɲɭ. […] ɬɪɭɞɧɨ ɛɵɥɨ ɞɨ ɤɨɧɰɚ ɫɨɯɪɚɧɢɬɶ ɤ
+
+ɧɟɣ ɩɪɟɠɧɸɸ ɫɢɦɩɚɬɢɸ. (emphasis added)
+
+(Tarasova created a character more complex and multi-faceted than the one that emerged from the dozens of critical reviews of her performance. […] She made [the audience] accept Anna not only as a
+
+“victim of society” but also as an involuntary “culprit” [responsible for]
+
+her unhappy fate. She was able to show – such was my personal understanding – that her time and society not only enclosed her inside the walls of ostracism, but also broke her very self, smeared her pure soul. […] it was difficult to retain one’s initial sympathy for her through the end.)76
+
+Karenin as a Tragic Hero
+
+In spite of the play’s emphasis on an all-consuming passion, Anna’s lover was of secondary importance to its concept. The critics unanimously re-proached Mark Prudkin for an ill-defined portrayal of Vronskij (neither a conventional seducer nor a Russian Romeo).77 In Baþelis’s words, Vronskij,
+
+“vopreki dlitel’nomu prebyvaniju na scene, okazalsja ơpizodiþeskim licom”
+
+488
+
+Anna Muza
+
+(“having spent much time on the stage, proved to be but an episodic personage”). Nikolaj Chmelev’s Karenin, on the contrary, acquired a striking new prominence. Chmelev played Karenin in a sharp, nearly grotesque manner; his repulsive exaggerated corporeality – enormous ears, mechanical gestures, squeaky monotonous voice – reminded Šklovskij and other reviewers of Ableuchov in Andrej Belyj’s Peterburg 78 and ultimately, of Pobedo-noscev. The writer Aleksej Svirskij suggested that Chmelev’s Karenin had an affinity with Dostoevskij’s characters.79 “Každyj, komu znakom roman, skažet, þto Chmelev malo pochož na svoj tolstovskij proobraz”, observed Mackin (“Anyone familiar with the novel will say that Chmelev has little in common with his prototype in Tolstoj”).80
+
+
+
+Chmelev’s Dostoevskian, expressionistic Karenin proved to be more appealing than the original character. One A. Nefedov, “slesar’-komsomolec zavoda imeni Stalina”, complained in a letter to Teatr: “V teatre Karenin tragiþen, ego žaleeš’, a þitaja roman, ja ne žalel, a nenavidel Karenina” (“In the theater, Karenin looks tragic, one feels pity for him, but reading the novel I did not pity Karenin but hated him”).81 Chodaseviþ in Paris expressed a similar view:
+
+[...] ɭ ɏɦɟɥɟɜɚ ɫɚɦɵɣ ɚɜɬɨɦɚɬɢɡɦ Ʉɚɪɟɧɢɧɚ ɩɪɚɜɞɢɜ, ɩɨɞɥɢɧɟɧ [...]
+
+ɢ ɜ ɪɟɡɭɥɶɬɚɬɟ ɧɟ Ʉɚɪɟɧɢɧ, ɚ ȼɪɨɧɫɤɢɣ ɫ Ⱥɧɧɨɣ ɤɚɠɭɬɫɹ
+
+ɡɚɜɨɞɧɵɦɢ ɤɭɤɥɚɦɢ. [...] Ɉɱɟɧɶ ɫɤɨɪɨ ɦɵ ɧɚɱɢɧɚɟɦ ɩɨɧɢɦɚɬɶ
+
+Kɚɪɟɧɢɧɚ ɥɭɱɲɟ, ɱɟɦ Ⱥɧɧɭ ɢ ȼɪɨɧɫɤɨɝɨ, ɨɧ ɧɚɦ ɫɬɚɧɨɜɢɬɫɹ ɛɥɢɠɟ, ɚ ɬɚɦ, ɝɥɹɞɢɲɶ, ɢ ɦɢɥɟɟ – ɢ ɜ ɤɨɧɰɟ ɤɨɧɰɨɜ ɫɨɱɭɜɫɬɜɢɟ ɡɪɢɬɟɥɹ
+
+ɧɟɱɭɜɫɬɜɢɬɟɥɶɧɨ ɩɟɪɟɧɨɫɢɬɫɹ ɫ Ⱥɧɧɵ ɢ ȼɪɨɧɫɤɨɝɨ – ɧɚ Ʉɚɪɟɧɢɧɚ.
+
+(Chmelev makes Karenin’s mechanistic manner itself truthful, authentic, and as a result, it is not Karenin but Anna and Vronskij that resemble mechanical dolls. Very quickly we begin to understand Karenin better than [we do] Anna and Vronskij, he becomes closer to us and eventually, dearer – and finally, the viewer’s compassion is imperceptibly transferred from Anna and Vronskij – onto Karenin.) Not unlike Ivanov, Chodaseviþ associated “podlinnost’” with the source of moral truth, although he attributed his impression not to the play’s conceptual design but simply to Chmelev’s superb and Tarasova’s inferior acting. But the Soviet critics sanctioned empathy for Karenin as well. Despite the hatred professed in the TASS statement, Chmelev’s treatment of his character was generally praised for its “psychological complexity”. Izgoev commented on the actor’s portrayal of a suffering human soul inside a repulsive social organism:
+
+Ʉɨɝɞɚ ɧɟɬɨɩɵɪɶ ɫ ɨɬɜɪɚɬɢɬɟɥɶɧɨ ɬɨɪɱɚɳɢɦɢ ɭɲɚɦɢ, ɜɨ ɮɪɚɤɟ ɫ
+
+ɡɜɟɡɞɚɦɢ [...] ɯɪɢɩɥɨ ɤɪɢɱɢɬ, ɤɚɪɤɚɟɬ Ʉɚɪɟɧɢɧɨɣ: “ə ɥɸɛɥɸ ɬɟɛɹ!”
+
+‘Anna Karenina’ 1937 489
+
+– ɷɬɨ ɩɪɟɞɟɥɶɧɨ ɫɜɨɟɣ ɛɟɡɵɫɯɨɞɧɨɫɬɶɸ, ɫɜɨɟɣ ɩɚɬɟɬɢɱɟɫɤɨɣ ɫɢɥɨɣ, ɝɥɭɛɢɧɨɣ ɜɵɪɚɠɟɧɢɹ ɫɥɨɠɧɨɣ ɢ ɫɢɥɶɧɨɣ ɱɟɥɨɜɟɱɟɫɤɨɣ ɥɢɱɧɨɫɬɢ.
+
+(When the bat with repulsively sticking out ears, clad in tails with state decorations yells hoarsely, croaks at Karenina, “I love you!” – this
+
+[moment] exhausts the possible limits of hopelessness, emotional force, depth in expressing a complex and strong personality.)
+
+In the Soviet space of the 1930s, “sil’naja liþnost’” was a flattering, as well as politically evocative, definition. Ol’ga Bokšanskaja, Nemiroviþ’s well-informed secretary, referred to Karenin’s theme in the play as a “semejnaja katastrofa bol’šogo gosudarstvennogo þeloveka” (“family catastrophe of a prominent statesman”).82 Karenin’s “gosudarstvennost’”, his deeply intern-alized statesmanship defined both his human identity and dramatic function.
+
+Baþelis made a significant comment:
+
+Ɉɧ ɡɚɤɨɧɨɞɚɬɟɥɶ – ɢ ɜ ɝɨɫɭɞɚɪɫɬɜɟ, ɢ ɜ ɫɜɟɬɟ, ɢ ɜ ɫɟɦɶɟ. ɉɪɢ
+
+ɩɟɪɜɨɣ ɫɜɨɟɣ ɫɩɨɫɨɛɧɨɫɬɢ ɛɵɬɶ ɜɟɥɢɤɨɞɭɲɧɵɦ, ɩɨ-ɫɜɨɟɦɭ ɩɪɹɦɨɣ
+
+ɢ ɱɟɫɬɧɵɣ, ɨɧ – ɬɨɬ, ɤɬɨ ɭɫɬɚɧɚɜɥɢɜɚɟɬ ɢ ɧɚɫɚɠɞɚɟɬ ɡɚɤɨɧɵ ɥɠɢ.
+
+(He is a lawmaker – in the state, in society, and in his family.
+
+Magnanimous upon his initial impulse, direct and honest in his own way, he is someone who establishes and promotes the laws of falsehood.)
+
+Karenin the lawmaker connected the microcosm of the family and the macro-cosm of the state. The connection was manifest in the stage set, in which the windows of the Karenin residence gave on the equestrian statue of Nicholas I by St. Isaac’s Cathedral. Mackin called Karenin “znatok zakona” (“an expert on the law”) but in a revised publication of his article in 1973 quoted Nemiroviþ’s remark to Chmelev at a rehearsal: “Vy vsegda nosite v sebe moral’, ne igraete v zakon, a sami – zakon” (“You always carry morality within yourself, the law for you is not a game, you are the law”).83
+
+Nemiroviþ also decided to stage the episode in the Palace following the award ceremony (Part V, chapter XXIV), even though Tolstoj’s text had but a few “skupye stroþki” (“scarce lines”) that could be used in its dramatic incarnation.84 Juzovskij curtly dismissed the scene as being “malocennyj”
+
+(“of little value”); Chodaseviþ admired its visual splendor. Superfluous in terms of dramatic action, the episode was essential for associating Karenin with the magnificence and power of the state. The scene solemnly opened with the sounds of Te Deum over an empty stage gradually filled with courtiers and officials in festive uniforms (ladies-in-waiting were dressed in ornate Russian costumes). The directors developed Tolstoj’s mention of a passing member of the Imperial family into a Grand Duke, who crossed the
+
+490
+
+Anna Muza
+
+stage hand in hand with Karenin.85 The setting and the metonymical mise-en-scène identified Karenin with the highest authority that he both represented and served. 86
+
+
+
+It is telling that in his meticulous review Mackin recalled Chmelev’s performance as Tsar Fedor Ioannoviþ in A.K. Tolstoj’s eponymous play. The critic indicated that, unlike his predecessors (the play had been in the Art Theater’s repertoire since 1898), Chmelev situated the tsar’s “tragic guilt” not in his meekness but in his failure to understand the “gosudarstvennye interesy strany” (“state interests of the country”).87 The “tragedy of a Russian woman” was thus directly associated with the tragedy of state.
+
+
+
+The “superfluous” scene at the court also contributed to the play’s tragedic claim in associating the Karenins’ misfortunes with the Palace, the archetypal site of classical passions, betrayals, and crimes. In classical tragedy, calamities in the royal household usually signified larger dangers threatening “the future of the royal house, the welfare of the community, even the ordering of human life itself”.88 Oedipus’s crime brought plague on the city of Thebes, and the events in Elsinore exposed the rottenness of the state of Denmark. The Karenins on the Art Theater’s stage became a symbolic couple surrounded by and representing their community. That community or collective – in classical terms, the chorus – was featured prominently in Nemiroviþ’s production. The twenty three intimate chamber scenes of Anna Karenina were punctuated by four grand public or mass scenes. Ignored by the Soviet critics, they defined the play’s visual continuity and conceptual integrity. Tarasova told Nemiroviþ that in showing “do þego doveli þeloveka”
+
+(“to what [extremes] they had pushed someone [Anna]”) he, Nemiroviþ,
+
+“sdelal bol’še, þem napisal Tolstoj ob obšþestve. On napisal tol’ko neskol’ko štrichov” (“did more than Tolstoj had written about society. He had written only a few strokes”).89
+
+‘Anna Karenina’ as a Temptation of the Audience
+
+Nemiroviþ informed his actors that the directive he had received from the powers that be was to show the society in Anna Karenina as it ought to be shown (“Dajte obšþestvo kak sleduet”),90 without elaborating the modality.
+
+For the Soviet mind the “kak sleduet”, of course, meant an unequivocally critical exhibition of the Karenins’ world. Among the play’s minor characters Soviet reviewers singled out Princess Betsy-Angelina Stepanova as an epitome of what Šklovskij called “uslovnost’ poroka” (“the [acceptable] convention of vice”). But in an expanded version of his review published by the American journal Theater Arts Monthly in November, Juzovskij discussed society figures in aesthetic rather than ethical terms. Concerning Betsy, the critic maintained that hers was a “refined kind of corruption, brought to an art
+
+‘Anna Karenina’ 1937 491
+
+– almost to a poetry,” which, “instead of bothering to conceal itself, flaunts its frankness with such good taste that nobody is shocked at all.”91 In a lengthy paragraph entirely absent from the Pravda original, Juzovskij admired Countess Vronskaja, a cameo role performed by Marija Lilina, with
+
+“few words and most of them in French”:
+
+She keeps an eloquent silence as she listens to the opera. […] A smile runs across her face and her eyes are closed. […] She listens with an impeccable taste of a well-informed dilettante who enjoys and gets added pleasure out of knowing that she enjoys. […] At all times her countenance indicates good taste. She cherishes the rules of society […]
+
+A disturbance of those rules would mean a rupture in the entire moral and aesthetic balance of the cultured world. […] Aristocracy, for her, means grace and refinement. There might be the danger that an audience would be tempted by so splendid a picture of the aristocracy, since it is exactly against this kind of society that the whole drama is directed.92
+
+Juzovskij assured his readers that the Soviet spectator would realize that “the scene is being included in order that he may have the truest knowledge of the life before him and, confident that he has all the data of the case, he passes sentence”. Thus, backed by the immense artistic authority of the Moscow Art Theater Anna Karenina was converted into a show trial of the ancien régime and served as a timely reminder of the impartiality of the Soviet judiciary system.
+
+
+
+At home, however, “all the data of the case” were not disclosed to the general public, and the “splendid picture of the aristocracy” remained a temptation reserved solely for the Art Theater audiences. The production’s material side, set design, and décor were excluded from Soviet accounts of the staging. Judging by the majority of the reviews, the actors could have been performing in a vacuum – an impression also conveyed by the radio broadcast. Mackin’s second article which, in his words, was to address Anna Karenina’s theatrical texture, never saw light. The few critics that touched upon the material aspect of the staging praised the “laconism” of stage design unusual for the Art Theater: “V.V. Dmitriev oformil spektakl’ istoriþeski verno, ne naturalistiþeski, a obobšþenno, bez navjazþivoj pyšnosti i izlišnej monu-mental’nosti” (“Dmitriev’s stage design is historically accurate, not naturalistic but conceptual, devoid of ostentatious pomp and excessive mon-umentality”).93
+
+Yet
+
+Chodaseviþ did not find the Art Theater’s staging either unusual or minimalist. Greatly irritated by Tarasova’s affectation, the poet admired the genuine beauty and taste of the inanimate world:
+
+492
+
+Anna Muza
+
+Ɇɟɛɟɥɶ, ɥɸɫɬɪɵ, ɞɜɟɪɧɵɟ ɞɪɚɩɢɪɨɜɤɢ, ɩɨɞɛɨɪɢɫɬɵɟ ɡɚɧɚɜɟɫɤɢ ɧɚ
+
+ɨɤɧɚɯ – ɜɫɟ ɷɬɨ ɡɚɞɭɦɚɧɨ ɢ ɢɫɩɨɥɧɟɧɨ ɫ ɨɝɪɨɦɧɵɦ ɜɤɭɫɨɦ.
+
+Ʉɚɛɢɧɟɬ Ʉɚɪɟɧɢɧɚ ɫ ɤɪɚɫɧɵɦɢ ɫɬɟɝɚɧɵɦɢ ɞɢɜɚɧɚɦɢ, ɞɢɜɚɧ ɤɚ-
+
+ɪɟɥɶɫɤɨɣ ɛɟɪɟɡɵ ɜ ɞɨɦɟ Ɉɛɥɨɧɫɤɢɯ, ɤɨɦɧɚɬɚ ɜɨ ɞɜɨɪɰɟ (ɫ
+
+ɜɟɥɢɤɨɥɟɩɧɨɸ ɡɨɥɨɬɨɸ ɥɟɩɤɨɣ ɧɚ ɛɟɥɵɯ ɫɬɟɧɚɯ) ɢ ɦɧɨɝɨɟ ɞɪɭɝɨɟ –
+
+ɜɫɟ ɷɬɨ ɜɵɲɟ ɜɫɹɤɢɯ ɩɨɯɜɚɥ.
+
+(Furniture, chandeliers, door drapes, window draperies – all is conceived and executed with exceptional taste. Karenin’s study with red quilted couches, a couch of Karelia birch in the Oblonskij household, the room in the palace (with magnificent gold modeling on white walls) and much else – exceed all praise.)
+
+From Chodaseviþ’s point of view, the superb material culture of Anna Karenina was the only vestige of the old Art Theater in the company that performed in Paris under that name.94 Sachnovskij later explained that in order to contrast Anna’s vivid inner life with her rigid “polished” environment, the producers preferred to rely on “vešþi podlinnye, nastojašþie”, such as “mebel’
+
+ili daže gostinaja, otdelannaja v stile Ljudovika XV”, “mundiry rasšitye zolotom, […] veera, blistajušþij chrustal’ ljustr, i t.d.” (“genuine, real things such as furniture or an entire drawing room decorated à la Louis XV, uniforms embroidered in gold, ladies’ low-cut dresses […] fans, chandeliers of sparkling crystal, and so forth”).95 Spectators were immersed in a carefully assembled “sparkling” world of things and costumes, whose authenticity had always been the Art Theater’s credo.
+
+
+
+According to Mstislav Dobužinskij, the artist, who had collaborated with the Art Theater on several productions prior to his emigration in 1924, the staging and to an extent acting in Anna Karenina (unlike in other MCHAT showcases in Paris) were “ešþe na izvestnoj vysote” (“still on a relatively high level”); but when he offered his help in correcting all kinds of inexactitude “v ơpoche” (“in [the representation of] the period”), the dis-appointing reply was that it did not matter: “Ơto meloþi, kotorych ne zameþaet publika” (“These are trifles which the public does not notice”).96
+
+The violations of what Dobužinskij called “artistic honesty” (“V moe vremja teatr byl chudožestvenno þesten”) may still have been noticed by some members of the audience in Paris and even in Moscow, yet on the whole the material world and the way of life staged in Anna Karenina were meant to engage the viewers’ sense, not of a historical past but of their own historical present. Russian exiles perceived the play in the past perfect tense, as an illusion of a lost time and space: Chodaseviþ compared it to sheets of colored lithographs. In Moscow, following the grand opening night, the performances of Anna Karenina in the spring of 1937 were attended by high Soviet officials and members of the diplomatic corps; according to Bokšanskaja, only eighty tickets per night were sold through the box office for the general
+
+‘Anna Karenina’ 1937 493
+
+public.97 The play’s elite, empowered audience embodied “privilege, social hierarchy and acquisitive consumerism”: areas in which, in the words of the historian Sheila Fitzpatrick, “a New Class sense of entitlement [had] emerged”.98 Ejzenštejn wrote down that Anna Karenina’s success exceeded its merits (“imel[a] uspech sverch dostoinstv”):99 a success created by the play’s social resonance. A visit to Anna Karenina in itself became a sign of distinction, and the play enriched its audience’s sense of entitlement in granting the viewers access to exclusive social settings, from Princess Betsy’s salon to the Winter Palace. According to Ol’ga Pyžova, an actress who performed in mass scenes, “zritel’ totþas že stanovilsja souþastnikom žizni, gde sobytija kasalis’ kamergerov i svetskich dam, skaþek i paradnych veþerov” (emphasis added; “the viewer instantly became a participant in that life where events concerned courtiers and society ladies, horse races and grand soirées”).100
+
+
+
+The temptation of the audience by the signs of its own superiority was not a side effect of the play’s material richness but a deliberate directorial strategy. In spite of extreme technical challenges Nemiroviþ included in the production episodes at the horse race and in the opera, and fully developed the metatheatrical implications of the two scenes, in which members of society, like the Art Theater audience, attended and watched a prestigious event. At the steeplechase, the chorus was placed in a frontal mise-en-scène, facing the audience and staring intensely at the farther rows in the stalls where the imaginary race was going on. The real and the stage spectators became mutually reflexive and equally distracted by Anna’s scandalous breakdown. The episode ended with Karenin slowly leading Anna away along the front stage, between two identical groups of hostile onlookers. In the episode at the opera, theater boxes installed on the stage extended and replicated the theater’s own interior. In the opera it was Vronskij who led Anna away under the stares of everyone in the “theater”.101 Symmetrical images of Anna’s expulsion from society included “everyone in the theater”
+
+on both sides of the front stage, and the actual audience joined its mimetic double in gazing at, humiliating, and rejecting the heroine.
+
+Chodaseviþ admitted that the horse race enjoyed a tremendous success with the public, although he himself found it too clever and showy, “sliškom nosjašþaja charakter trjuka, snižajušþego važnyj vnutrennij smysl momenta”
+
+(“looking too much like a [circus] trick deflating the important inner meaning of the moment”). The poet simply could not imagine that the staging materialized the society’s external, not Anna’s inner, point of view. In the Soviet press, the two spectacular episodes were hardly noted at all;102 yet in the Theater Arts Monthly Juzovskij declared that in Anna Karenina, the
+
+“Chekhovian” “fourth wall between the stage and the audience has dis-appeared pretty completely. How else, now, without the entire sympathy of the spectators, can Anna’s sufferings become convincing?”103 The “fourth wall”, of course, had not prevented the sufferings of ýechov’s and other
+
+494
+
+Anna Muza
+
+characters from being famously “convincing” on the Art Theater stage. In Anna Karenina, the merging of the stage and the audience compelled the spectators to partake not in Anna’s misfortune but in the collective power over the disgraced heroine.
+
+
+
+Thus the tragedy of a Russian woman was staged as a play about the uncertainty and inner choice of its audience involved in a state conflict and suspended between compassion and self-admiration, intimacy and publicity, melodrama and tragedy, blind passion and loyalty. The precarious situation of the viewers was resolved in the production’s final scene, in one stroke with the heroine’s fate.
+
+The Sentence
+
+The theater staged the heroine’s end with a shocking, aggressive physicality.
+
+Anna stood on a dark empty stage, motionless, speechless, until the lights of the approaching train shattered her oblivion. Many years later the critic Ljubov’ Frejdkina recalled Tarasova’s emotional intensity verging on insanity: “Bespomošþnost’, rasterjannost’, beznadežnyj krik o spasenii […]
+
+‘Gde ja? ýto ja delaju? Zaþem?’ Grochot poezda, fary, osvešþajušþie rel’sy i
+
+[…] zanaves” (“Helplessness, dismay, a hopeless plea for salvation. ‘Where am I? what am I doing? what for?’ The roar of the train, lights on the tracks and […] curtain”).104 In its naturalist crudity, the spectacle of a real train all but crushing a live performer exploded the elegance and “laconism” of the staging. Pyžova remembered that “gibel’ geroini, ee poslednij krik proiz-vodili vpeþatlenie real’nogo, strašnogo sobytija” (“the heroine’s death, her last scream made an impression of a real, awful event”).105 The extraordinary effect was, once again, suppressed by the critics; only Mackin briefly mentioned it in Teatr: “Mgnovenno menjajušþajasja kartina – mþašþijsja poezd i krik isstuplenija: ‘Zaþem!’” (“an instant scene change – a rapidly advancing train and a scream of frenzy, ‘What for!’”).106 A mechanized death under the wheels looked less like a suicide accomplished by Juliet’s or Othello’s own hand, and more like an execution. Juzovskij with his Shakespearean approach noted disapprovingly that the play had robbed Anna of her last stream of thoughts, of that final “ozarenie, kotoroe […] dovodit ee do jarþajšego vzglja-da v samuju sut’ žizni” (“illumination which […] takes her to a brightest insight into the very essence of life”), which would have made a perfect soliloquy. Indispensable for a Hamlet or an Othello, however, such an illumination would not be visited on Tarasova’s frenzied, terrified heroine. Anna’s desperate “Zaþem!” that shocked even the listeners of the radio broadcast,107
+
+must have sounded, in this setting, like the last plea of a criminal sentenced to death.
+
+
+
+The spectacle of the heroine’s execution provided a logical conclusion to Anna Karenina as a tragedy of illicit passion, hubristic challenge, and
+
+‘Anna Karenina’ 1937 495
+
+lawful, as well as awesome, punishment. In addition, the last episode once again penetrated the space of the audience, this time in a finite and irrevocable way. In the last moments of the five-hour-long play the spectators were forced to share, not the secure comforts of a powerful community but the physical and emotional terror of the perishing heroine. Blinded by the lights of the rapidly approaching train ominously advancing straight onto the orchestra, the audience was spatially and emotionally united with the outcast in her agony and death. This shattering transition inscribed into the viewers’
+
+immediate sensory experience a realization of their own vulnerability. Anna’s fall from “great repute and prosperity” to humiliation and death epitomized the fate that during the years of terror might have been scripted for any member of the Art Theater’s select audience, including the occupants of the government box, and could await him or her any night, including the night of the visit to the theater. Anna Karenina engaged its viewers in a collective experience of pity and terror, whose privileged and secluded nature endowed it with the properties of a secret ritual. In terms of René Girard’s discussion of violence and the sacred, Anna Karenina relieved the community of its interior sense of guilt through a violent sacrificial crisis.108
+
+
+
+Cultural historians have considered modern representations of adultery as directed towards one of the two opposite ends, which Barbara Leckie has called “transgressive” and “conservative”:109 the former calling for a re-evaluation of the social, and often aesthetic, convention and ethos, and the latter, for consolidating the existing social and moral order. Anna Karenina simultaneously served both, and not only in that the criticism celebrated, and the play condemned, the transgressive heroine. Negotiating a Soviet meaning and relevance for a production that satisfied the masked and hidden interests and practices of the state better than its proclaimed agenda, the critics turned Anna Karenina into a depository of political processes, ideological shifts and uncertainties of the moment. Anna Karenina was stretched over a broad range of literary and dramatic texts and subtexts, cultural trends and political events, from Groza to Hamlet, from formalism to humanism, from Majakovskij’s vindication to Tuchaþevskij’s death sentence. Symbolizing a new
+
+“complexity” and “inclusiveness” of socialist culture, the play acquired an overtone of a liberating gesture dismantling the rigid strictures of “proletarian art”. It brought into the Soviet mass circulation the names of, or implicit references to, Nietzsche, Dostoevskij, and not quite orthodox literary and artistic sources. At the same time, directed against the artistic works considered erroneous or subversive, Anna Karenina played a legislative and conservative role. The Soviet state itself identified with the tragedy performed on the Art Theater stage and attached to it a state importance. Yet, most remarkably, Anna Karenina affirmed the authority of the state and the law by subjecting its audience to a destabilizing experience which, in its mixture of
+
+496
+
+Anna Muza
+
+temptation, shock, and secrecy, overstepped the norms of Soviet art recognized in public discourse.
+
+Invitation to a Beheading
+
+It has often been pointed out that the “social occasion in which theatre is embedded obviously conditions in a major way both the experience and its interpretation”.110 The presence of Soviet leaders at Anna Karenina’s opening night brought about what one eye-witness nostalgically evoked as
+
+“duchovnoe edinenie zala” (“spiritual oneness of the audience”)111 and undoubtedly made even louder the already “oglušitel’nyj” (“thunderous”) success of the previews reported by Elena Bulgakova, the writer’s wife.112
+
+The Bulgakovs, offended by the Art Theater’s treatment of Bulgakov’s work and by the scandal around his play Kabala svjatoš in the previous season,113
+
+evidently were not part of the celebratory scene, although references to Anna Karenina are not infrequent in Elena Sergeevna’s diary.114 However, on March 15 the couple witnessed Stalin’s appearance at the Bolshoi theater and a public response common to all such occasions: “Posle okonþanija – na scene sobralis’ vse ispolniteli i ustroili ovaciju Stalinu, v kotoroj prinjal uþastie i ves’ teatr. Stalin machal privetstvenno rukoj akteram, aplodiroval”
+
+(“After the performance all actors gathered on the stage and gave an ovation to Stalin, in which the entire theater joined. Stalin waved his hand in a greeting to the actors, applauded”).115 As Boris Wolfson has indicated, “the exchange of applause, the display of adoration” were consistent with the theatrical structure of the encounter,116 yet they also undermined the intrinsic conventions of the medium itself. The leader’s starring performance in his own role overshadowed and canceled the dramatic event.
+
+
+
+It appears that in Anna Karenina’s case, on the contrary, the presence of the Soviet government augmented the production’s integrity and brought the play to an emotional consummation. Jeffrey Brooks has argued that Stalinist public culture on the whole was a performative practice, in which exclusive social groups signified, and acted out their social roles, replacing the nation’s public life with a performance of public life.117 On the opening night, Soviet leaders performed the role of the members of the Soviet collective (“gorjaþo aplodirovali vmeste so vsem zalom”) and at the same time, through their very presence, conferred an exclusive distinction on the assembled representatives of the “Soviet people”. Yet, unlike in other state favorites staging revolutionary ethos in Ljubov’ Jarovaja or Russian patriot-ism in Ivan Susanin,118 in Anna Karenina the world on stage was designed to mimic the world of the audience, and to enhance the latter’s awareness of its own exclusivity. The performance of privilege and hierarchy on the theater stage mirrored the performance in the theater auditorium, and the residents of the government box were engaged in the play’s inner signifying mechanism.
+
+‘Anna Karenina’ 1937 497
+
+The courtiers that had just received awards from the sovereign’s hands in the Winter Palace represented the attendees of the opening night in the same way in which theater boxes in the staged “opera” extended the Art Theater’s interior. Encased in this mirror-like structure, the first night audience felt elated yet also belittled and threatened by the symbolic body of the Soviet state, whose duty to discipline and punish informed the production’s concept and staging. It is as if the overlooking gaze of the Pontifex Maximus that Nemiroviþ-Danþenko imagined in his archaizing vision of Anna Karenina materialized in the government box. That controlling, dominating surveil-lance, overpowering both the stage and the audience, seems to have been necessary for the participants to reach an emotional climax. Ơjzenštejn, who must have seen the production some time before 1939, regretted that “mne kak zritelju ne chvatalo ơtoj sily, sžimajušþej mne gorlo, zastavljajušþej menja preryvisto dyšat’, zadychat’sja” (“as a spectator, I did not experience that force that would clasp my throat, make me breathe unevenly, gasp for air”).119 In the 1980s, Vilenkin recalled “to obšþee volnenie, te slezy na gla-zach u vsech, te sekundy potrjasenija, kotorye vyzyvali general’nye repeticii i pervye spektakli Anny Kareninoj” (emphasis added; “that general excitement, tears on everyone’s eyes, instants of profound shock at the dress rehearsals and first performances of Anna Karenina”).120 Vilenkin’s qualifications, unusual for the Art Theater with its famously long-running repertoire, also indicate that the production’s full affective force was enabled by its particular audience and by the aura emanating from the government box. The performers representing, and the spectators watching, the trial and execution of the errant heroine found their oneness under the gaze of that supreme power which, in the words of Michel Foucault, “not only did not hesitate to exert itself directly on bodies but was exalted and strengthened by its visible manifestations”.121
+
+Anna
+
+Karenina remained in high demand through the end of the decade but underwent an inner mutation. As the play’s broadening audience lost its exclusive quality, the viewers’ self-recognition and complicity in the dramatic events were replaced by voyeurism. Lidija ýukovskaja observed in 1940 that the play’s greatest attraction was “vozmožnost’ uvidet’ roskošnuju žizn’ vysšego sveta” (“a chance to see the luxurious life of high society”).122
+
+With time, the luxury lost its luster as well, and the political and cultural renovation of the late 1950s made Anna Karenina entirely irrelevant.123 One night in 1960 the no longer engaged Alla Tarasova stopped by to take a look and remarked to a friend: “Da… chorošij byl spektakl’. A teper’ on takoj ubogon’kij. […] Massovye sceny takie stali žalkie. Vse pyl’ju pokrylos’” (“It used to be a good show. And now it’s so wretched. Mass scenes have become so pathetic. All is covered by dust”).124 The dusty Stalinist spectacle of terror stirred pity in the heart of its former star.
+
+
+
+
+
+498
+
+Anna Muza
+
+Alla Tarasova, The Scene at the Opera
+
+Alla Tarasova, The Train and the Suicide
+
+
+
+‘Anna Karenina’ 1937 499
+
+Alla Tarasova – Anna
+
+500
+
+Anna Muza
+
+NOTES
+
+I am grateful to Gennady Barabtarlo, Oksana Bulgakowa, and Irina Paperno for their critical reading and insightful discussion of this paper, and overall generous attention to my project.
+
+1
+
+‘Chronicle of the Year 1937 as Recorded by the Newspaper Izvestiya and Collective Farmer Ignat Danilovich Frolov’, in Intimacy and Terror. Soviet Diaries of the 1930s, ed. Véronique Garros, Natalia Korenevskaya, and Thomas Lahusen, New York, 1995, p. 22.
+
+2
+
+The theater’s official title in 1937 was Moskovskij Chudožestvennyj Akademiþeskij (since 1919) Teatr imeni Gor’kogo (since 1932).
+
+3
+
+According to Vitalij Vul’f, the broadcast of Anna Karenina was the first direct radio transmission of a theater performance in the Soviet Union. See Vitalij Vul’f, A. I. Stepanova – aktrisa Chudožestvennogo teatra, Moskva, 1985, p.
+
+143.
+
+4 Reported
+
+by
+
+Veþernjaja Moskva on 14 May 1937, p. 3.
+
+5
+
+The Art Theater’s show pieces in Paris included Anna Karenina, Konstantin Trenev’s Ljubov’ Jarovaja and Maksim Gor’kij’s Vragi.
+
+6
+
+Leonid Maksimenkov has used Stalin’s well-known assessment of Majakovskij’s legacy, “luþšij i talantlivejšij poơt sovetskoj ơpochi”, to suggest that in the second half of the 1930s the vertical hierarchical principle of the Soviet political structure was carried over into the arts, each of which was to acquire a single, “best and most talented” leader. The decisive rise of the Art Theater is a case in point. See Sumbur vmesto muzyki. Stalinskaja kul’turnaja revoljucija 1936-1938, Moskva, 1997, pp. 17-22.
+
+7
+
+Vs. Ivanov, ‘MCHAT – nacional’nyj russkij teatr’, Teatr, No. 4, July 1937, p.
+
+25.
+
+8
+
+Evgenij Dobrenko, ‘The Russia We Acquired. Russian Classics, the Stalinist Cinema, and the Past from the Revolutionary Perspective’, Russian Studies in Literature, Vol. 37, No. 4, Fall 2001, p. 66.
+
+9
+
+Jak. Varšavskij, ‘ Anna Karenina’, Trud, 26 April 1937, p. 4. Since theater reviews are always confined to a single page of a newspaper’s issue, in order to avoid the multiplication of footnotes, all newspaper sources are subsequently acknowledged only once, upon the first mention.
+
+10 ‘ Anna Karenina’, Izvestija, 24 March 1937, p. 3.
+
+11 N. Nikitin, ‘Materinstvo i literatura’, Pravda, 19 April 1937, p. 4.
+
+12 Maja Turovskaja has written about the cultural shift from the sexless or androgynous female of the 1920s to the “matronly” type of the 1930s in her Babanova. Legenda i biografija, Moskva, 1981, p. 222. The transition in policies, taste, and representation has subsequently been discussed by many scholars: see, e. g., Hans Günther, ‘Archetipy sovetskoj kul’tury’ in Socrea-listiþeskij kanon, pod obšþej redakciej Chansa Gjuntera i Evgenija Dobrenko, Sankt-Peterburg, 2000, pp. 764-779, and Oksana Bulgakowa, ‘Sovetskie
+
+‘Anna Karenina’ 1937 501
+
+krasavicy v stalinskom kino’ in Sovetskoe bogatstvo. Stat’i o kul’ture, literature i kino, Sankt-Peterburg, 2002, pp. 391-411.
+
+13
+
+See, for example, Sheila Fitzpatrick, Everyday Stalinism. Ordinary Life in Extraordinary Times: Soviet Russia in the 1930s, New York-Oxford, 1999, p.
+
+142.
+
+14
+
+A. Mackin, ‘ Anna Karenina’, Teatr, No. 3, June 1937, pp. 107-108.
+
+15
+
+N. Izgoev, ‘ Anna Karenina’, Izvestija, 20 April 1937, p. 3.
+
+16
+
+Iogann Al’tman, ‘ Anna Karenina’, Izvestija, 24 March 1937, p. 3.
+
+17
+
+Jakov Grinval’d, ‘ Anna Karenina’, Veþernjaja Moskva, 20 April 1937, p. 3.
+
+18
+
+‘Bol’šaja tvorþeskaja pobeda MCHAT SSSR im. Gor’kogo’, Pravda, 23 April 1937, p. 1.
+
+19
+
+Izgoev went on to say that Anna would have been crushed by the proprietary order no matter what social layer she had been spinning in, “v kakom by social’nom sloe ona ni vrašþalas’”. Anna’s social standing was exposed rather than camouflaged by the reviewer’s telling mistake in Russian, as one cannot
+
+‘vrašþat’sja v sloe”, spin in a layer, but only in high circles.
+
+20
+
+Galina Kalinovskaja, MCHAT v moej žizni, Moskva, 1998, p. 55.
+
+21
+
+Ju. Juzovskij, ‘ Anna Karenina’, Pravda, 23 April 1937, p. 4.
+
+22
+
+M. Tverskoj, ‘ Anna Karenina’, Sovetskoe iskusstvo, 23 April 1937, p. 5.
+
+23
+
+Viktor Šklovskij, ‘Voskresenie Anny Kareninoj’, Sovetskoe iskusstvo, 29
+
+April 1937, p. 5.
+
+24
+
+A. Mackin, ‘ Anna Karenina’, p. 101.
+
+25
+
+Walter Benjamin, Moscow Diary, Ed. Gary Smith, Transl. Richard Sieburth, Cambridge, Mass., 1986, p. 55.
+
+26
+
+‘Kak igrat’ Annu Kareninu?’, Sovetskoe iskusstvo, 17 May 1937, p. 3.
+
+27
+
+Evgenij Braudo, ‘Pobeda sovetskoj muzyki’, Literaturnaja gazeta, 30 January 1934, p. 4.
+
+28
+
+‘ Anna Karenina’, p. 108.
+
+29
+
+J.C., ‘ Anna Karénine’, Le Figaro, Jeudi, 12 Août 1937, p. 5. On the whole, the coverage of the Art Theater’s performances in the French press would constitute a separate line of inquiry, which I do not pursue. It may be mentioned here that in October of 1937 MCHAT’s dramaturge Pavel Markov printed a short and relatively frank survey of the French responses in the in-house publication Gor’kovec: Markov recognized that the Art Theater performed in the French capital under unfavorable conditions, in the midst of the “dead season”, and that the reviews were respectful but not “sensational”.
+
+See ‘Gastroli MCHAT v Pariže’, in P.A. Markov, V Chudožestvennom teatre.
+
+Kniga zavlita, Moskva, 1976, pp. 392-395.
+
+30
+
+I. Baþelis, ‘ Anna Karenina – prem’era vo MCHAT im. Gor’kogo’, Komsomol’skaja pravda, 22 April 1937, p. 4.
+
+31
+
+Quoted in O.A. Radišþeva, Stanislavskij i Nemiroviþ-Danþenko. Istorija teatral’nych otnošenij. 1917-1938, Moskva, 1999, p. 382.
+
+32
+
+Vladislav Chodaseviþ, ‘Chudožestvennyj teatr. Tretij veþer’, Vozroždenie, No.
+
+4092, 20 August 1937, p. 9. I am grateful to Robert Hughes for providing me
+
+502
+
+Anna Muza
+
+with references to Chodaseviþ’s reviews of the Art Theater’s performances in Paris.
+
+33 Vl.I.
+
+Nemiroviþ-Danþenko, Izbrannye pis’ma. V dvuch tomach, Tom vtoroj, Moskva, 1979, p. 431.
+
+34 In particular, two of the Art Theater’s prominent patrons, Nikolaj Bucharin and Avel’ Enukidze, were arrested in February of 1937.
+
+35 V. Sachnovskij, ‘ýto takoe nacional’noe v teatre?’, Teatr, No. 4, July 1937, p.
+
+30.
+
+36
+
+Dama s kamelijami has been described, by the later Soviet theater historians and critics, as a major influence on Anna Karenina: see, e. g., Aleksandr Gladkov’s Ne tak davno. Pjat’ let s Mejerchol’dom. Vstreþi s Pasternakom.
+
+Drugie vospominanija, Moskva, 2006, p. 207. I believe, however, that Nemiroviþ alluded to Mejerchol’d’s theatrical language in order to de-monstrate the fundamental conceptual difference of his approach to a similar character and theme. In that sense, contemporary critics who insisted that Anna Karenina was not to be seen through the prism of Dama s kamelijami, were ultimately right, even though the Art Theater’s play was more significantly engaged with Mejerchol’d’s than they were willing to admit.
+
+37 One critic called Mejerchol’d’s work a “babuškin spektakl’” (“grandmothers’
+
+production”): see Konstantin Rudnickij, Režisser Mejerchol’d, Moskva, 1969, p. 460, and in general on Dama s kamelijami, pp. 458-466. On Mejerchol’d’s dialog with Stanislavskij and the Art Theater, see also Mejerchol’d repetiruet.
+
+V dvuch tomach. Tom vtoroj : Spektakli 30-ch godov, sostavlenie i kommentarii M.M. Sitkoveckoj, Moskva, 1993, pp. 53-98.
+
+38 For example, the Karenins’ slow passage along the stage after the horse race, under the eyes of the society crowd, evoked the celebrated mise-en-scène in Mejerchol’d’s staging of Aleksandr Griboedov’s Woe from Wit (1928, revived 1935), in which ýackij moved along the front stage past the sneering members of society seated at an unnaturally long table. See Konstantin Rudnickij, Režisser Mejerchol’d, pp. 386-387.
+
+39 ‘ Anna Karenina’, p. 108.
+
+40 Paul
+
+Gsell,
+
+Le Théâtre soviétique, Paris, 1937, p. 82.
+
+41 ‘ Anna Karenina’, p. 105.
+
+42 Peter
+
+Brooks,
+
+The Melodramatic Imagination. Balzac, Henry James, Melodrama, and the Mode of Excess, New Haven and London, 1976, p. 32.
+
+43 Brooks, p. 87.
+
+44 See Sergej Bertenson’s detailed chronicle, V Chollivude s V.I. Nemiroviþem-Danþenko (1926-1927). Po materialam archiva S.L. Bertensona sostavil K. Arenskij, Monterey, California, 1964, pp. 124-129. Love was later followed by another, “talking” adaptation, Anna Karenina (1935), also with Garbo. It is not quite accidental that in the mid-1930s Garbo played both Anna Karenina and Marguerite Gautier ( Camille, 1936), and Tarasova in the USSR, Katerina Kabanova and Anna.
+
+45 Vera
+
+Inber,
+
+Za mnogo let, Moskva, 1964, pp. 260-261.
+
+‘Anna Karenina’ 1937 503
+
+46 Tony
+
+Tanner,
+
+Adultery in the Novel. Contract and Transgression, Baltimore and London, 1979, p. 13.
+
+47 Puškin’s lines (“No ja drugomu otdana…”, 8: LXVII) are quoted here in James E. Falen’s translation (Alexander Pushkin, Eugene Onegin, Oxford, New York, 1998, p. 210).
+
+48 Viktor Šklovskij, ‘Voskresenie Anny Kareninoj’, Sovetskoe iskusstvo, 29
+
+April 1937, p. 5.
+
+49 Stalin’s judgment concerning Majakovskij’s legacy appeared in Pravda on 5
+
+December 1935.
+
+50 ‘ Anna Karenina’, p. 113.
+
+51 Anatolij Glebov, ‘Tragedija i tragiþeskoe’, Teatr, No. 6, September 1937, p.
+
+110.
+
+52 After the closure of Mejerchol’d’s theater in January of 1938 and the director’s arrest in 1939, Pasternak’s translation of Hamlet attracted the attention of Nemiroviþ, who engaged the poet to work with MCHAT: see Pasternak’s letter to Ol’ga Frejdenberg of 14 February 1940 in Boris Pasternak, Perepiska s Ol’goj Frejdenberg, pod redakciej i s kommentarijami Elliotta Mossmana, New York and London, 1981, pp. 179-180. Mejerchol’d’s and Pasternak’s contemporary reflections on Shakespeare may be found in Aleksandr Gladkov’s often-quoted memoirs, recently reprinted under the title Ne tak davno. Pjat’ let s Mejerchol’dom. Vstreþi s Pasternakom. Drugie vospominanija, Moskva, 2006, especially pp. 152-159, 371-373. See also An.
+
+Tarasenkov, ‘Pasternak. ýernovye zapisi. 1930-1939’, in Vospominanija o Borise Pasternake, Sostavlenie, podgotovka teksta, kommentarii E.V. Pasternak, M.I. Fejnberg, Moskva, 1993, p. 162.
+
+53 On Shakespeare in the Soviet theater of the 1930s, see Arkady Ostrovsky’s article ‘Shakespeare as a Founding Father of Socialist Realism: The Soviet Affair with Shakespeare’, in Shakespeare in the Worlds of Communism and Socialism, eds. Irena Makaryk and Joseph G. Price, Toronto, 2006, pp. 56-83; and also Laurence Senelick’s ‘A Five-Year Plan for The Taming of the Shrew’ and Alexey Bartoshevitch’s ‘The Forest of Arden in Stalin’s Russia’
+
+in the same volume.
+
+54 The idea to stage Romeo and Juliet was eventually rejected in favor of Anna Karenina; Nemiroviþ’s work on Hamlet continued till his death in 1943. See Vl.I. Nemiroviþ-Danþenko, Nezaveršennye režisserskie raboty. Boris Go-dunov. Gamlet, Moskva, 1984. See also I. Solov’eva, Nemiroviþ-Danþenko, Moskva, 1979, p. 394.
+
+55 ‘ Anna Karenina’, p. 101.
+
+56 Izgoev
+
+in
+
+Izvestija.
+
+57 Brooks,
+
+The Melodramatic Imagination, p. 32.
+
+58 A.
+
+Jabloþkina, ‘Posle spektaklja “Anna Karenina” vo MCHAT’, Sovetskoe iskusstvo, 5 May 1937, p. 5.
+
+59 See Arkady Ostrovsky, ‘Shakespeare as a Founding Father of Socialist Realism’, pp. 63, 66-67.
+
+60
+
+Sovetskoe iskusstvo, 29 January 1937, p. 1.
+
+504
+
+Anna Muza
+
+61 ‘O nedostatkach partijnoj raboty i merach likvidacii trockistskich i inych dvurušnikov. Doklad t. Stalina na Plenume CK VKP(b) 3 marta 1937 g. ’, Izvestija, 20 March 1937, p. 1.
+
+62
+
+Izvestija, 16 June 1937, p. 3.
+
+63 See
+
+Istorija sovetskogo dramatiþeskogo teatra v šesti tomach, tom 4. 1933-1941, Moskva, 1968, 136. Ostrovsky claims that the number grew to 243
+
+productions by 1941 (‘Shakespeare as a Founding Father’, p. 61).
+
+64 The quotation is from Aleksandr Ostužev, the star of the Maly Theater’s sensational production of the play, in Ostužev-Otello Sbornik, Leningrad-Moskva, 1938, pp. 34-35.
+
+65 Vs. Ivanov, ‘MCHAT – nacional’nyj russkij teatr’, Teatr, No. 4, July 1937, 25.
+
+66 Nemiroviþ’s letter and other materials had been carefully collected and reprinted in an extraordinary contemporary edition, a small encyclopedia of sorts documenting MCHAT’s work on the play: ‘ Anna Karenina’ v postanovke Moskovskogo ordena Lenina Chudožestvennogo Akademiþeskogo Teatra Sojuza SSR imeni M. Gor’kogo, Moskva, 1938, pp. 9-10.
+
+67 N.D. Volkov, ‘Dramaturgija “Anny Kareninoj’”, in Anna Karenina v postanovke Moskovskogo Chudožestvennogo Akademiþeskogo Teatra, p. 185.
+
+68
+
+Ơjzenštejn’s notes on the production were made in 1939; they have been published as part of the essay ‘Opredeljajušþij žest’, in Sergej Michajloviþ Ơjzenštejn, Neravnodušnaja priroda, sostavitel’, avtor predislovija i kom-mentariev N.I. Klejman, tom pervyj, ýuvstvo kino, Moskva, 2004, p. 193. I am indebted to Boris Wolfson for transcribing the original manuscript and bringing it to my attention.
+
+69 ‘Iz zapisej i stenogramm repeticii spektaklja “Anna Karenina”’, in Alla Konstantinovna Tarasova. Dokumenty i vospominanija, Moskva, 1978, p.
+
+193.
+
+70
+
+Ibid., p. 194.
+
+71
+
+Ibid.
+
+72 V. Vilenkin, Vl.I. Nemiroviþ-Danþenko, Oþerk tvorþestva, Moskva, 1941, pp.
+
+201-202.
+
+73 Vilenkin’s monograph was an edition of the Musical Theater named after, and headed by, Nemiroviþ himself.
+
+74 Aristotle,
+
+Poetics, transl., with an introduction and notes, by Charles F. Else, Ann Arbor, 1967, p. 38.
+
+75 Simon
+
+Goldhill,
+
+Reading Greek Tragedy, Cambridge, 1986, p. 125.
+
+76 V. L. Talalaj, [Bez zaglavija], in: Alla Konstantinovna Tarasova, p. 384.
+
+77 Mackin,
+
+‘ Anna Karenina’, p. 109.
+
+78 Chmelev’s acting must have triggered memories, not simply of Belyj’s character, but also of Michail ýechov’s legendary role in the 1925 staging of Peterburg. Owing to ýechov’s emigration from the Soviet Union in 1928, his name could not be mentioned in print, yet in the MCHAT in-house newsletter a fellow-actor explicitly accused Chmelev of plagiarizing ýechov’s master-piece. See Vitalij Vul’f, A.I. Stepanova, p. 163.
+
+‘Anna Karenina’ 1937 505
+
+79
+
+A. Svirskij, ‘Preobražajušþaja sila iskusstva’, Teatr, No. 8, November 1937, 119.
+
+80
+
+‘ Anna Karenina’, p. 109.
+
+81
+
+A. Nefedov, ‘Uþite žit’!’, Teatr, No. 8, November 1937, p. 120.
+
+82
+
+Pis’ma O.S. Bokšanskoj Vl.I. Nemiroviþu-Danþenko. V dvuch tomach, Tom vtoroj, 1931-1942, Moskva, 2005, p. 422 (No. 358, 28 February 1938).
+
+83
+
+‘Nemiroviþ-Danþenko: režisserskie iskanija i spektakli’, in A. Mackin, Por-trety i nabljudenija, Moskva, 1973, p. 152.
+
+84
+
+V.G. Sachnovskij, ‘Rabota nad spektaklem Anna Karenina’, in Anna Karenina v postanovke Moskovskogo Chudožestvennogo Akademiþeskogo Teatra, p. 101.
+
+85
+
+Ibid., p. 104.
+
+86
+
+In the novel, Karenin’s pride in his service is undermined by the narrator, who uses the episode in the Palace to inform the reader of the beginning decline of Karenin’s career, evident to all except Karenin himself. The theater audience, on the contrary, shared Karenin’s moment of triumph.
+
+87
+
+‘ Anna Karenina’, p. 111.
+
+88
+
+Matthew H. Wikander, ‘Something is Rotten: English Renaissance Tragedy of State’, in A Companion to Tragedy, ed. Rebecca Bushnell, Oxford, 2005, p.
+
+307.
+
+89
+
+Alla Konstantinovna Tarasova, p. 197.
+
+90
+
+Ibid.
+
+91
+
+Jozef Youzovsky, ‘ Anna Karenina’, Theatre Arts Monthly, No. 11, Vol. XXI, November 1937, p. 857.
+
+92
+
+Ibid., p. 858.
+
+93
+
+Sovetskoe iskusstvo, 23 April 1937, p. 5.
+
+94
+
+Vladislav Chodaseviþ, ‘Chudožestvennyj teatr. Veþer pervyj’, Vozroždenie, 17 August 1937, p. 5.
+
+95
+
+Ibid.
+
+96
+
+Michail Dobužinskij, Vospominanija, tom I, New-York, 1976, p. 374.
+
+97
+
+Pis’ma O.S. Bokšanskoj Vl.I. Nemiroviþu-Danþenko, tom vtoroj, pp. 344-345
+
+(No. 335, 24 April 1937).
+
+98
+
+Sheila Fitzpatrick, The Cultural Front. Power and Culture in Revolutionary Russia, Ithaca and London, 1992, p. 218.
+
+99
+
+‘Opredeljajušþij žest’, p. 194.
+
+100
+
+Ol’ga Pyžova, Fragmenty teatral’noj sud’by, Moskva, 1986, p. 304.
+
+101
+
+See Sachnovskij’s detailed description in Anna Karenina v postanovke Moskovskogo Chudožestvennogo Akademiþeskogo Teatra, pp. 97-98.
+
+102
+
+Only Tverskoj in Sovetskoe iskusstvo mentioned the ingenious mediating role of the stage audience in conveying “to us” the invisible events on the hippodrome.
+
+103
+
+‘ Anna Karenina’, p. 855.
+
+104
+
+Alla Konstantinovna Tarasova, p. 367.
+
+105
+
+Ol’ga Pyžova, Fragmenty teatral’noj sud’by, p. 304.
+
+106
+
+P. 107.
+
+506
+
+Anna Muza
+
+107 See Alla Konstantinovna Tarasova, p. 418.
+
+108 René Girard, Violence and the Sacred, transl. by Patrick Gregory, Baltimore, 1979.
+
+109 Barbara Leckie, Culture and Adultery. The Novel, the Newspaper, and the Law, 1857-1914, Philadelphia, 1999, p. 15. See also Amy Mandelker, Framing Anna Karenina. Tolstoy, the Woman Question, and the Victorian Novel, Columbus, 1993, especially p. 38.
+
+110 Marvin Carlson, Theater Semiotics. Signs of Life, Bloomington and Indiana-polis, 1990, p. 13.
+
+111 Galina Kalinovskaja, MCHAT v moej žizni, p. 55.
+
+112
+
+Dnevnik Eleny Bulgakovoj, Moskva, 1990, p. 139.
+
+113 After years of frustrating delays and rewriting, Kabala svjatoš opened on February 15, 1936 and was taken off the repertoire after the editorial ‘Vnešnij blesk i fal’šivoe soderžanie’ (‘External Glitter and False Content’) published in Pravda on March 9. See, e. g., Anatolij Smeljanskij, Michail Bulgakov v Chudožestvennom teatre, Moskva, 1989, pp. 296-315.
+
+114 The Bulgakovs’ connection to the Art Theater was not only professional but familial as well: Nemiroviþ’s secretary Ol’ga Bokšanskaja and Elena Bulgakova were sisters.
+
+115
+
+Dnevnik Eleny Bulgakovoj, p. 117.
+
+116 Boris Wolfson, ‘Staging the Soviet Self: Literature, Theater, and Stalinist Culture, 1929-1939’, Ph. D. diss., University of California at Berkeley, 2004.
+
+117 Jeffrey Brooks, Thank you, Comrade Stalin! Soviet Public Culture from Revolution to Cold War, Princeton, 2000. See especially pp. 106-125 on
+
+‘Literature and the Arts’.
+
+118 Konstantin Trenev’s play Ljubov’ Jarovaja (1926) was originally staged by the Maly Theater but revived by MCHAT, under state patronage, in 1936; Michail Glinka’s opera Ivan Susanin was staged at the Bolshoi in 1939 and used as a major propagandistic tool. See, e. g., Viktor Živov, ‘Ivan Susanin i Petr Velikij. O konstantach i peremennych v sostave istoriþeskich personažej’, Novoe literaturnoe obozrenie, 38, 1999, pp. 54-58.
+
+119 Sergej Ơjzenštejn, ‘Opredeljajušþij žest’, p. 194.
+
+120 V.Ja. Vilenkin, Vospominanija s kommentarijami, Moskva, 1991, p. 60.
+
+121 Michel Foucault, Discipline and Punish: The Birth of the Prison, transl. from the French by Alan Sheridan, New York, 1979, p. 57.
+
+122 Lidija ýukovskaja, Zapiski ob Anne Achmatovoj. V trech tomach, tom pervyj, 1938-1941, Moskva, 1997, p. 141.
+
+123 Some of MCHAT’s attempts to restore and uphold Anna Karenina in the late 1950s and 1960s are described by Vul’f in his A.I. Stepanova, pp. 158-163.
+
+The critic sees the process merely as the play’s inevitable “aging”.
+
+124 E.J. Morozova. [Iz dnevnikovych zapisej.] In Alla Konstantinovna Tarasova, p. 405.
+
+
+
+
+

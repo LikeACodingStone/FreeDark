@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">62af4c39-63ed-41bd-884c-275e4f8c60a6</dc:identifier>
+        <dc:title>The Silmarillion 精灵宝钻</dc:title>
+        <dc:creator opf:file-as="TOLKIEN, J.R.R." opf:role="aut">J.R.R. TOLKIEN</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (8.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2025-08-19T01:42:27.205000+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">79f98e94-a180-42fd-887b-d65e9452e8b9</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2025-08-19T02:11:16.573326+00:00"/>
+        <meta name="calibre:title_sort" content="Silmarillion 精灵宝钻, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Silmarillion 精灵宝钻, The - J.R.R. TOLKIEN.jpg"/>
+    </guide>
+</package>
